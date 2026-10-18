@@ -1,0 +1,3082 @@
+{
+ "format": 14,
+ "client": "lesta",
+ "brdf": "brdf_lut.png",
+ "hangars": [
+  {
+   "key": "hg_halloween_26",
+   "event": true,
+   "scenes": [
+    {
+     "scene": "hg_halloween_26",
+     "revisions": [
+      {
+       "from": "2026-09-18",
+       "to": "2026-10-01",
+       "first": "26.10.0.176",
+       "last": "26.10.0.15",
+       "builds": 2,
+       "game": "26.10.0.15",
+       "pic": "dfe77f5b1b5cb36cc70d1df3fc2e7bd1",
+       "view": {
+        "spot": [
+         -75.25,
+         1.0,
+         2.87
+        ],
+        "fwd": [
+         1.0,
+         0.0082
+        ]
+       },
+       "presets": [
+        "Default",
+        "v_2"
+       ],
+       "scene": "8dd174b94676d1fec1b5f9f0bba09a61",
+       "geom": "c667bf8e597de068e2f5708bf64c1d50",
+       "hm": "6b05537e15df640c95557ece267c8d45",
+       "flora": "b8c3f01baa6273e82e5133d8e98d0e12",
+       "inst": "1f3798131422c12ef289e98a2854e6a3",
+       "packs": [
+        "160ff0ea7c2b9e4cd25569f871705187",
+        "1b1138316b622e2facdb0b2c6583626c",
+        "2347a2837bf91b561c0caf89a0b69985",
+        "24828130ff207b322d6b5bddcdec781f",
+        "466bce5429e7b1ad8323c782d59680da",
+        "89611f483d52b233e48b4ef131b986d0",
+        "9455833f7ddb4cf63effbad5c8be4908",
+        "96b94c3582c6e2d4267ec1741feb8765",
+        "9b22bbf006060122bd2c6cb3a1ee2dcb",
+        "b4cbe940cb61e9a8fd4aa6f138bc7f32",
+        "b73cee3980cba76e5b6f59769d96ae64",
+        "c1bb4c01ee775eb33cbe575198c04c78",
+        "db4bae4b12e8b6bc94289afc4f47fb7a",
+        "dbfd1db62ebabc4c0d5c66dc3b2ed6d3",
+        "e6612003f6138ebe19864f8a01c59c0e",
+        "ea285cf034c1d0619488f435d59ee1e0"
+       ],
+       "bytes": 115978412,
+       "templates": "cb17cddbf44cc5aa9c2e6452b853f169",
+       "src": "0f8f34ca0e64de7d620589e8a53d8b76",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2026-09-18",
+   "to": "2026-10-01",
+   "thumb": {
+    "full": "b266c171f5080d9644990cd82a75d1f2",
+    "small": "d0df47a74d0541bbb8f7f7ea49ba5b83",
+    "src": "74ce2fb3525108fecfe5866a060b1ce7"
+   }
+  },
+  {
+   "key": "hangar_9May_26",
+   "event": true,
+   "scenes": [
+    {
+     "scene": "hg_9may_26",
+     "revisions": [
+      {
+       "from": "2026-04-28",
+       "to": "2026-04-28",
+       "first": "26.4.0_2",
+       "last": "26.4.0_2",
+       "builds": 1,
+       "game": "26.4.0_2",
+       "pic": "3f71e54b2dc48f0a6734d8326067132a",
+       "view": {
+        "spot": [
+         -3.64,
+         -10.69,
+         3.2
+        ],
+        "fwd": [
+         0.9997,
+         0.0225
+        ],
+        "eye": [
+         12.96,
+         -14.28,
+         5.6
+        ]
+       },
+       "shot": {
+        "eye": [
+         -13.54,
+         -0.79,
+         7.7
+        ],
+        "look": [
+         14.04,
+         -28.37,
+         4.7
+        ]
+       },
+       "scene": "fcc72150d70101d51ab4cdab5659057d",
+       "geom": "f6af9e4a5879354cc21d0ac74a5ee556",
+       "hm": "b90a3eb061274bfd92039fa489081b05",
+       "flora": "89b282afc2f0e4c519754141de463457",
+       "inst": "da3fbf59bcbf81e9bcb8f0ebae6fd27c",
+       "packs": [
+        "0239d278a81552b4cbdb3c07fe277bcc",
+        "120d564841592d5578e2efa431b240b2",
+        "1e2212cc35dfc494ceada1483621bfc2",
+        "2443445a09e608b7a9fc9d4e494ce2a8",
+        "2da7fd29ca55c66032b541d23d98852c",
+        "3f58b35b1cd3f63d2ff8f7b81faba2fc",
+        "59f94600a79baa97c21709b28e943eb1",
+        "5bbde33c76fe60bff8c86783e890414e",
+        "5d6b07fd74841dfc3449d19354ade383",
+        "65a4e194b8620a826c4f4872cc2b4a85",
+        "6c82937f23c59f709dfc6ba27696ea43",
+        "75234698c7da62316f61e0727cddda84",
+        "76f89610f6018f66612c59d222966c34",
+        "7da00450813120249b44eb74cadacf9a",
+        "c3610321fc2ae0f0f509f4f1f29aedd4",
+        "d9640538e02bb282fc73b2400c7daba9",
+        "fd3ee55f9cfe80aba130caaf80382db5"
+       ],
+       "bytes": 110043324,
+       "templates": "cb17cddbf44cc5aa9c2e6452b853f169",
+       "src": "e0b02c0ce01e819206172ef37ca88942",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2026-04-28",
+   "to": "2026-04-28",
+   "thumb": {
+    "full": "325e6a91df5112919362215432f71369",
+    "small": "ba8cfccdf8c46286ed3c1f2e7b2d4454",
+    "src": "2cad6d0e6b80ca1547ba5f66c6d026d5"
+   }
+  },
+  {
+   "key": "hangar_newyear_2026",
+   "event": true,
+   "scenes": [
+    {
+     "scene": "hangar_newyear_2026",
+     "revisions": [
+      {
+       "from": "2025-11-13",
+       "to": "2025-12-22",
+       "first": "12.6.0.5078",
+       "last": "12.6.0_1",
+       "builds": 3,
+       "game": "12.6.0_1",
+       "pic": "2f05ccfa74afcc04b3c3321f61a37739",
+       "view": {
+        "spot": [
+         0.47,
+         -0.25,
+         0.0
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ],
+        "eye": [
+         19.57,
+         -0.26,
+         5.81
+        ]
+       },
+       "scene": "9edabc338980d850265f8ad9e242453a",
+       "geom": "2a92e55404c881f7a9a6c77e6cc6564b",
+       "hm": null,
+       "flora": null,
+       "inst": "1c4ff8b5ec1b19028e109c4303089770",
+       "packs": [
+        "3224e21f3ae9a7ae785dc9584ad9285a",
+        "3590d74b7f3a35eb6bbb4c1378a2df15",
+        "9bc301392d6dba3524ec0c16a100d7a8",
+        "b1f20b1ee3f8507e7b774744ea46df17",
+        "cebcac9de4687d01648c9ec1abc81516",
+        "ea30162876afadce7080ac322db2ade9"
+       ],
+       "bytes": 47393986,
+       "templates": "49bcc590a2e7b92123ba0fdcad0f0a64",
+       "src": "6251e28d7eeb09f0b086f3e6a6f345a5",
+       "wf": 7
+      }
+     ]
+    },
+    {
+     "scene": "State_1",
+     "revisions": [
+      {
+       "from": "2025-11-13",
+       "to": "2025-12-22",
+       "first": "12.6.0.5078",
+       "last": "12.6.0_1",
+       "builds": 3,
+       "game": "12.6.0_1",
+       "pic": "4c052e37b4e805d7fc997a7f5fbd61cf",
+       "view": {
+        "spot": [
+         0.47,
+         -0.25,
+         0.0
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ],
+        "eye": [
+         19.57,
+         -0.26,
+         5.81
+        ]
+       },
+       "scene": "faedb9d6e53c205515cabc465153b460",
+       "geom": "5b0801769e25c1e30b4d05e4c18450f1",
+       "hm": null,
+       "flora": null,
+       "inst": "0bc48b2b803d770b802ae69c63d12723",
+       "packs": [
+        "3224e21f3ae9a7ae785dc9584ad9285a",
+        "3590d74b7f3a35eb6bbb4c1378a2df15",
+        "9bc301392d6dba3524ec0c16a100d7a8",
+        "b1f20b1ee3f8507e7b774744ea46df17",
+        "cebcac9de4687d01648c9ec1abc81516",
+        "ea30162876afadce7080ac322db2ade9"
+       ],
+       "bytes": 47395257,
+       "templates": "49bcc590a2e7b92123ba0fdcad0f0a64",
+       "src": "c0dc30a632f5b41f681a89d05211a3c8",
+       "wf": 7
+      }
+     ]
+    },
+    {
+     "scene": "State_2",
+     "revisions": [
+      {
+       "from": "2025-11-13",
+       "to": "2025-12-22",
+       "first": "12.6.0.5078",
+       "last": "12.6.0_1",
+       "builds": 3,
+       "game": "12.6.0_1",
+       "pic": "734925b7a0d5bb5396ec8813c1c017ef",
+       "view": {
+        "spot": [
+         0.47,
+         -0.25,
+         0.0
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ],
+        "eye": [
+         19.57,
+         -0.26,
+         5.81
+        ]
+       },
+       "scene": "3ff2795bcf9c5d35dd8bf35668258041",
+       "geom": "ac2d8fbce4281126ca617fe2dd3d2f2c",
+       "hm": null,
+       "flora": null,
+       "inst": "026b0ed9a645625c69d3312315fff61f",
+       "packs": [
+        "3224e21f3ae9a7ae785dc9584ad9285a",
+        "3590d74b7f3a35eb6bbb4c1378a2df15",
+        "9bc301392d6dba3524ec0c16a100d7a8",
+        "b1f20b1ee3f8507e7b774744ea46df17",
+        "cebcac9de4687d01648c9ec1abc81516",
+        "ea30162876afadce7080ac322db2ade9"
+       ],
+       "bytes": 47395569,
+       "templates": "49bcc590a2e7b92123ba0fdcad0f0a64",
+       "src": "8bbe8b2bedeed3292a075036b1fb1e30",
+       "wf": 7
+      }
+     ]
+    },
+    {
+     "scene": "State_3",
+     "revisions": [
+      {
+       "from": "2025-11-13",
+       "to": "2025-12-22",
+       "first": "12.6.0.5078",
+       "last": "12.6.0_1",
+       "builds": 3,
+       "game": "12.6.0_1",
+       "pic": "734925b7a0d5bb5396ec8813c1c017ef",
+       "view": {
+        "spot": [
+         0.47,
+         -0.25,
+         0.0
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ],
+        "eye": [
+         19.57,
+         -0.26,
+         5.81
+        ]
+       },
+       "scene": "6ec39e68e0010f854c9ecdbe2a01c622",
+       "geom": "ac2d8fbce4281126ca617fe2dd3d2f2c",
+       "hm": null,
+       "flora": null,
+       "inst": "f2b1f2680713f68193c6a15a0c5e4d8a",
+       "packs": [
+        "3224e21f3ae9a7ae785dc9584ad9285a",
+        "3590d74b7f3a35eb6bbb4c1378a2df15",
+        "9bc301392d6dba3524ec0c16a100d7a8",
+        "b1f20b1ee3f8507e7b774744ea46df17",
+        "cebcac9de4687d01648c9ec1abc81516",
+        "ea30162876afadce7080ac322db2ade9"
+       ],
+       "bytes": 47396031,
+       "templates": "49bcc590a2e7b92123ba0fdcad0f0a64",
+       "src": "fb843508a79d2eea4b83fdda6d1ff56c",
+       "wf": 7
+      }
+     ]
+    },
+    {
+     "scene": "State_4",
+     "revisions": [
+      {
+       "from": "2025-11-13",
+       "to": "2025-12-22",
+       "first": "12.6.0.5078",
+       "last": "12.6.0_1",
+       "builds": 3,
+       "game": "12.6.0_1",
+       "pic": "bfce9b3a9ddf17abb63dbb9e8ac51f06",
+       "view": {
+        "spot": [
+         0.47,
+         -0.25,
+         0.0
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ],
+        "eye": [
+         19.57,
+         -0.26,
+         5.81
+        ]
+       },
+       "scene": "c2825087dfe1df06fd6c9af6924348f0",
+       "geom": "3cbe072a2f330d84e0caadb4c6f3682f",
+       "hm": null,
+       "flora": null,
+       "inst": "0e7401434663dcea33f38fa38695a2e9",
+       "packs": [
+        "3224e21f3ae9a7ae785dc9584ad9285a",
+        "3590d74b7f3a35eb6bbb4c1378a2df15",
+        "9bc301392d6dba3524ec0c16a100d7a8",
+        "b1f20b1ee3f8507e7b774744ea46df17",
+        "cebcac9de4687d01648c9ec1abc81516",
+        "ea30162876afadce7080ac322db2ade9"
+       ],
+       "bytes": 47396462,
+       "templates": "49bcc590a2e7b92123ba0fdcad0f0a64",
+       "src": "f80e08611f6a69e65b16f74ca1c740a1",
+       "wf": 7
+      }
+     ]
+    },
+    {
+     "scene": "State_5",
+     "revisions": [
+      {
+       "from": "2025-11-13",
+       "to": "2025-12-22",
+       "first": "12.6.0.5078",
+       "last": "12.6.0_1",
+       "builds": 3,
+       "game": "12.6.0_1",
+       "pic": "0416c1464ac9d7ebda909f575ef76d55",
+       "view": {
+        "spot": [
+         0.47,
+         -0.25,
+         0.0
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ],
+        "eye": [
+         19.57,
+         -0.26,
+         5.81
+        ]
+       },
+       "scene": "b0a01bd5490ddad504f989d75a9eacc0",
+       "geom": "e027bf7e66fec5140e0da272432926a1",
+       "hm": null,
+       "flora": null,
+       "inst": "f0ff85a8159d212a3bfe29d9eef55b40",
+       "packs": [
+        "3224e21f3ae9a7ae785dc9584ad9285a",
+        "3590d74b7f3a35eb6bbb4c1378a2df15",
+        "9bc301392d6dba3524ec0c16a100d7a8",
+        "b1f20b1ee3f8507e7b774744ea46df17",
+        "cebcac9de4687d01648c9ec1abc81516",
+        "ea30162876afadce7080ac322db2ade9"
+       ],
+       "bytes": 47395086,
+       "templates": "49bcc590a2e7b92123ba0fdcad0f0a64",
+       "src": "76bde43f91901f6e7377d595d2b8a730",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2025-11-13",
+   "to": "2025-12-22",
+   "thumb": {
+    "full": "fde4f2ce78807085e81d7da8170e1762",
+    "small": "e4faf1a866e6ab98e4aaffbe3f8dc9a1",
+    "src": "385e6b0502eb736bef89dc193dcc4612"
+   }
+  },
+  {
+   "key": "hangar_helloween_2025",
+   "event": true,
+   "scenes": [
+    {
+     "scene": "hangar_helloween_2025",
+     "revisions": [
+      {
+       "from": "2025-10-28",
+       "to": "2025-12-22",
+       "first": "12.4.0_3",
+       "last": "12.6.0_1",
+       "builds": 4,
+       "game": "12.6.0_1",
+       "pic": "4b2eff97d0fe166cce634f502bfac6d1",
+       "view": {
+        "spot": [
+         0.47,
+         -0.25,
+         0.04
+        ],
+        "fwd": [
+         1.0,
+         0.0082
+        ],
+        "eye": [
+         19.57,
+         -0.26,
+         5.81
+        ]
+       },
+       "scene": "0bd2721c5d7e0bb8309d064817d09a0a",
+       "geom": "d667fd6696ce37bcd9d6e1eda53b5089",
+       "hm": null,
+       "flora": null,
+       "inst": "f177b4ea0065df8a3dcc41448d501d8b",
+       "packs": [
+        "07ac4d4cfffc0f3ae67121eab3b478cc",
+        "4903f6c4ba9927525f623f5dbc86c40f",
+        "66d1a9c60c0e33014b491a579501dca6",
+        "6c8f8345c75c9bdce34bb298054b0761",
+        "9d97f90aba26becf4119b482b8ea715b",
+        "b114f344eb9d264cb66325aece44a642",
+        "b844bd083d974eed95ad58e999d7903e",
+        "dafdb8319e52e2dacafe767d311f6237",
+        "def4bd82604a2c8879c44280dc1edc8f"
+       ],
+       "bytes": 67789496,
+       "templates": "49bcc590a2e7b92123ba0fdcad0f0a64",
+       "src": "8c1bf9ca141946f57aade9242ac684d7",
+       "wf": 7
+      },
+      {
+       "from": "2025-09-12",
+       "to": "2025-10-09",
+       "first": "12.4.0.5076",
+       "last": "12.4.0_2",
+       "builds": 3,
+       "game": "12.4.0_2",
+       "pic": "5681cfd3d432ad4416cba352eb5bfc87",
+       "view": {
+        "spot": [
+         0.47,
+         -0.25,
+         0.04
+        ],
+        "fwd": [
+         1.0,
+         0.0082
+        ],
+        "eye": [
+         19.57,
+         -0.26,
+         5.81
+        ]
+       },
+       "scene": "7885e67acf0ae6f1e039f3ce7fd752ab",
+       "geom": "d667fd6696ce37bcd9d6e1eda53b5089",
+       "hm": null,
+       "flora": null,
+       "inst": "f74821f44bc6d06cfc521a100ceefe79",
+       "packs": [
+        "07ac4d4cfffc0f3ae67121eab3b478cc",
+        "4903f6c4ba9927525f623f5dbc86c40f",
+        "66d1a9c60c0e33014b491a579501dca6",
+        "6c8f8345c75c9bdce34bb298054b0761",
+        "9d97f90aba26becf4119b482b8ea715b",
+        "b114f344eb9d264cb66325aece44a642",
+        "b844bd083d974eed95ad58e999d7903e",
+        "dafdb8319e52e2dacafe767d311f6237",
+        "def4bd82604a2c8879c44280dc1edc8f"
+       ],
+       "bytes": 67789288,
+       "templates": "c053d3d28c993c0f3662ad98b82f073c",
+       "src": "9190641c410bad6c577387d25df2ded5",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2025-09-12",
+   "to": "2025-12-22",
+   "thumb": {
+    "full": "4c413106d6167c9eaaa16dc7e34c90bd",
+    "small": "baf740a0cf31a47e85ab4fb69c32d57a",
+    "src": "fa1b9da64b14ae06c91fc6f5369b3f74"
+   }
+  },
+  {
+   "key": "hangar_party_2025",
+   "event": true,
+   "scenes": [
+    {
+     "scene": "hangar_party_2025",
+     "revisions": [
+      {
+       "from": "2025-05-22",
+       "to": "2025-06-24",
+       "first": "12.0.0.5074",
+       "last": "12.0.0_1",
+       "builds": 2,
+       "game": "12.0.0_1",
+       "pic": "c024ebec930b65d6598bd03e42857c6b",
+       "view": {
+        "spot": [
+         76.84,
+         144.51,
+         2.84
+        ],
+        "fwd": [
+         1.0,
+         0.0082
+        ],
+        "eye": [
+         93.39,
+         140.68,
+         5.25
+        ]
+       },
+       "scene": "a4bc316a5f90811e5d0f230c95be2a72",
+       "geom": "44ddf6da24adb353c9f1366084c491ab",
+       "hm": null,
+       "flora": null,
+       "inst": "26048c543444c1e0d2954e27165eabf3",
+       "packs": [
+        "0f11141a592f64e33617023217c8a22e",
+        "32d703103196748a6d3272e3e9cdf4bd",
+        "48dd1d0934b8fd7bc5ae0110c1331ab4",
+        "4c2c580aadee79ce9b2a141e31ac8075",
+        "63ce5b5783e2780d75a6127d74ee0cb5",
+        "64c6bd7ecdb81950bfe49f3251c2be81",
+        "6fa8e507cf880bba2520035d5a4b4aa5",
+        "8266d7ee4c24e6f3803ca269a3e12a5f",
+        "d863c901d56c06b914ace7c53059526e",
+        "e36a27b47a581fc9de752983b104bbc3",
+        "e3b5d1b9828447b161f5916b91380906"
+       ],
+       "bytes": 89539907,
+       "templates": "ac45595fea683a68c352394e722f291a",
+       "src": "d96a0553de659f706f0e49857baa7e98",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2025-05-22",
+   "to": "2025-06-24",
+   "thumb": {
+    "full": "ec5c44e6984064d19ce17e41a8011e6f",
+    "small": "1d524d75b4b271a4b3c953aff4d1c227",
+    "src": "8f1b65ed251605daa47d3932de838a3e"
+   }
+  },
+  {
+   "key": "hangar_9May_25",
+   "event": true,
+   "scenes": [
+    {
+     "scene": "hg_9may_25",
+     "revisions": [
+      {
+       "from": "2025-04-25",
+       "to": "2025-04-25",
+       "first": "11.10.0_2",
+       "last": "11.10.0_2",
+       "builds": 1,
+       "game": "11.10.0_2",
+       "pic": "d48c3ac71b6cc0eaca9c1fef0f957015",
+       "view": {
+        "spot": [
+         -2.58,
+         -10.28,
+         2.94
+        ],
+        "fwd": [
+         0.9997,
+         0.0225
+        ],
+        "eye": [
+         13.97,
+         -14.12,
+         5.58
+        ]
+       },
+       "scene": "7038ee6e495f6404d4b6485ca88d46d9",
+       "geom": "d9d6e84fd8e77019ab8b78710b847389",
+       "hm": "d20494bbb23edfe91cca8bd0d7f5651b",
+       "flora": "aa877d900205a1b17a2c1f60f9467599",
+       "inst": "9b36a7b6e35ad1f56677d646385677a1",
+       "packs": [
+        "5892fbc5bc1e701324460318ef0c1ef8",
+        "5d2ca367180745aa4908f7f245a760f9",
+        "7997e92cefd51b90eccf97637aef4910",
+        "97f4c17c5358f25520aecfdcded4cbf1",
+        "aded5ea5dcb975c0b9250ffccab0d661",
+        "b6c97848c21d15fe8316dd93a26e8ed4",
+        "b9abca6f3684179ece824723b96b90c3",
+        "cb8fc5f3fea12e5b649d8fd125464748",
+        "e686844fb468099a8872406a6994bd51",
+        "e999c2cb990cab9e1f9fe85ce8bce3c2"
+       ],
+       "bytes": 65418733,
+       "templates": "ac45595fea683a68c352394e722f291a",
+       "src": "069482f03897f726f2a01e94a77d6e3d",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2025-04-25",
+   "to": "2025-04-25",
+   "thumb": {
+    "full": "41072495aab6cba5475e3da0a064607b",
+    "small": "defdb282e910aa48f8b5002fa6209563",
+    "src": "011ba89e0bcbdb0d7959cf9d3145f46c"
+   }
+  },
+  {
+   "key": "hangar_NY_25",
+   "event": true,
+   "scenes": [
+    {
+     "scene": "hangar_NY_25",
+     "revisions": [
+      {
+       "from": "2024-11-14",
+       "to": "2024-12-17",
+       "first": "11.6.0.5070",
+       "last": "11.6.0_2",
+       "builds": 3,
+       "game": "11.6.0_2",
+       "pic": "5d3b18f48f365ceba4f85dff9bdf7c72",
+       "view": {
+        "spot": [
+         -3.69,
+         -11.69,
+         2.62
+        ],
+        "fwd": [
+         0.9998,
+         0.0186
+        ],
+        "eye": [
+         12.89,
+         -15.35,
+         5.03
+        ]
+       },
+       "scene": "b672c10947d42b7a0fb5f5503982e25f",
+       "geom": "dec8050a26c685094a09b5adbd3af76d",
+       "hm": "b99cdfd9707a0d792d5479a31d550c9f",
+       "flora": null,
+       "inst": "50f0c653851bb9f940f284a70a7b9008",
+       "packs": [
+        "18a71a082d246bad53b8ce451d77bf09",
+        "241ab69c19575abb88f164a3dfec028b",
+        "27e7f795ce5ec48a8019be773e3e9412",
+        "29d82de6e6b338b72fee789a03656961",
+        "2af0fde949c63db7067b87808ab9e4ce",
+        "33266431454561490c6c2ef7349253a8",
+        "35c87b19e4d78be15b6f82b1737825f6",
+        "35f6549d2dc703d1c5821be17682bbf7",
+        "391723fb1b6ed37410292df8434398d0",
+        "526a46179ff224aab10518e80c7492c4",
+        "564f6a866955aedc11320c5d34a56be6",
+        "87b43f03eb1fde0a43102e13e682a8eb",
+        "8c4de9e345d7bce2ab70535f9dd25e4b",
+        "988c61d5a5c9bde209c5b2749f8b55e8",
+        "a45730da5ccf5101d0c78a3451e58e38",
+        "cca196bdaa3c77974b121dda3fb1bd72",
+        "e0f562c8ae4540f5accb1e9e58760ab8",
+        "e529a96020e8e97ff232799cab285857",
+        "ef8e8b85d35bb883c613781ae5a92dbf",
+        "f4c4016214190548417085d27064a04d",
+        "fd507996955bf28148c42e467b2f6e21"
+       ],
+       "bytes": 151223506,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "76b29e708812eb5874cd12ea29dbba44",
+       "wf": 7
+      }
+     ]
+    },
+    {
+     "scene": "State_1",
+     "revisions": [
+      {
+       "from": "2024-11-14",
+       "to": "2024-12-17",
+       "first": "11.6.0.5070",
+       "last": "11.6.0_2",
+       "builds": 3,
+       "game": "11.6.0_2",
+       "pic": "0b1880ea3bceb57bdd57950a50937ca2",
+       "view": {
+        "spot": [
+         -3.69,
+         -11.69,
+         2.62
+        ],
+        "fwd": [
+         0.9998,
+         0.0186
+        ],
+        "eye": [
+         12.89,
+         -15.35,
+         5.03
+        ]
+       },
+       "scene": "310e308d3ec26f99d5fd7aff3e88e786",
+       "geom": "c54850be1501d1d9ad2481db8353a589",
+       "hm": "b99cdfd9707a0d792d5479a31d550c9f",
+       "flora": null,
+       "inst": "8ccbd6eaf65c548c499c1b92af0230dc",
+       "packs": [
+        "18a71a082d246bad53b8ce451d77bf09",
+        "241ab69c19575abb88f164a3dfec028b",
+        "27e7f795ce5ec48a8019be773e3e9412",
+        "29d82de6e6b338b72fee789a03656961",
+        "2af0fde949c63db7067b87808ab9e4ce",
+        "33266431454561490c6c2ef7349253a8",
+        "35c87b19e4d78be15b6f82b1737825f6",
+        "35f6549d2dc703d1c5821be17682bbf7",
+        "391723fb1b6ed37410292df8434398d0",
+        "526a46179ff224aab10518e80c7492c4",
+        "564f6a866955aedc11320c5d34a56be6",
+        "87b43f03eb1fde0a43102e13e682a8eb",
+        "8c4de9e345d7bce2ab70535f9dd25e4b",
+        "988c61d5a5c9bde209c5b2749f8b55e8",
+        "a45730da5ccf5101d0c78a3451e58e38",
+        "cca196bdaa3c77974b121dda3fb1bd72",
+        "e0f562c8ae4540f5accb1e9e58760ab8",
+        "e529a96020e8e97ff232799cab285857",
+        "ef8e8b85d35bb883c613781ae5a92dbf",
+        "f4c4016214190548417085d27064a04d",
+        "fd507996955bf28148c42e467b2f6e21"
+       ],
+       "bytes": 153149508,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "6ec6d64e1af3a2f71bcc5f1827b49924",
+       "wf": 7
+      }
+     ]
+    },
+    {
+     "scene": "State_2",
+     "revisions": [
+      {
+       "from": "2024-11-14",
+       "to": "2024-12-17",
+       "first": "11.6.0.5070",
+       "last": "11.6.0_2",
+       "builds": 3,
+       "game": "11.6.0_2",
+       "pic": "4f47a6d5402c74abfa66f6d0e7968ceb",
+       "view": {
+        "spot": [
+         -3.69,
+         -11.69,
+         2.62
+        ],
+        "fwd": [
+         0.9998,
+         0.0186
+        ],
+        "eye": [
+         12.89,
+         -15.35,
+         5.03
+        ]
+       },
+       "scene": "efee6c11c4723dc72aa0622b14f2ee33",
+       "geom": "25bd47c0298aa20c26d4987b856c6d5f",
+       "hm": "b99cdfd9707a0d792d5479a31d550c9f",
+       "flora": null,
+       "inst": "7f0d6872b95c590be5b753e43dab27c5",
+       "packs": [
+        "18a71a082d246bad53b8ce451d77bf09",
+        "241ab69c19575abb88f164a3dfec028b",
+        "27e7f795ce5ec48a8019be773e3e9412",
+        "29d82de6e6b338b72fee789a03656961",
+        "2af0fde949c63db7067b87808ab9e4ce",
+        "33266431454561490c6c2ef7349253a8",
+        "35c87b19e4d78be15b6f82b1737825f6",
+        "35f6549d2dc703d1c5821be17682bbf7",
+        "391723fb1b6ed37410292df8434398d0",
+        "526a46179ff224aab10518e80c7492c4",
+        "564f6a866955aedc11320c5d34a56be6",
+        "87b43f03eb1fde0a43102e13e682a8eb",
+        "8c4de9e345d7bce2ab70535f9dd25e4b",
+        "988c61d5a5c9bde209c5b2749f8b55e8",
+        "a45730da5ccf5101d0c78a3451e58e38",
+        "cca196bdaa3c77974b121dda3fb1bd72",
+        "e0f562c8ae4540f5accb1e9e58760ab8",
+        "e529a96020e8e97ff232799cab285857",
+        "ef8e8b85d35bb883c613781ae5a92dbf",
+        "f4c4016214190548417085d27064a04d",
+        "fd507996955bf28148c42e467b2f6e21"
+       ],
+       "bytes": 151233333,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "adb3810c1ab39f84f2b76f14eee012e5",
+       "wf": 7
+      }
+     ]
+    },
+    {
+     "scene": "State_3",
+     "revisions": [
+      {
+       "from": "2024-11-14",
+       "to": "2024-12-17",
+       "first": "11.6.0.5070",
+       "last": "11.6.0_2",
+       "builds": 3,
+       "game": "11.6.0_2",
+       "pic": "4cf3a539859dc9d54349cca54846a47b",
+       "view": {
+        "spot": [
+         -3.69,
+         -11.69,
+         2.62
+        ],
+        "fwd": [
+         0.9998,
+         0.0186
+        ],
+        "eye": [
+         12.89,
+         -15.35,
+         5.03
+        ]
+       },
+       "scene": "4161da591f1bd076bc112285af77932d",
+       "geom": "5656704fd331b05d967ab8f45db801d6",
+       "hm": "b99cdfd9707a0d792d5479a31d550c9f",
+       "flora": null,
+       "inst": "b36133724026e462d95517a1c55cf395",
+       "packs": [
+        "18a71a082d246bad53b8ce451d77bf09",
+        "241ab69c19575abb88f164a3dfec028b",
+        "27e7f795ce5ec48a8019be773e3e9412",
+        "29d82de6e6b338b72fee789a03656961",
+        "2af0fde949c63db7067b87808ab9e4ce",
+        "33266431454561490c6c2ef7349253a8",
+        "35c87b19e4d78be15b6f82b1737825f6",
+        "35f6549d2dc703d1c5821be17682bbf7",
+        "391723fb1b6ed37410292df8434398d0",
+        "526a46179ff224aab10518e80c7492c4",
+        "564f6a866955aedc11320c5d34a56be6",
+        "87b43f03eb1fde0a43102e13e682a8eb",
+        "8c4de9e345d7bce2ab70535f9dd25e4b",
+        "988c61d5a5c9bde209c5b2749f8b55e8",
+        "a45730da5ccf5101d0c78a3451e58e38",
+        "cca196bdaa3c77974b121dda3fb1bd72",
+        "e0f562c8ae4540f5accb1e9e58760ab8",
+        "e529a96020e8e97ff232799cab285857",
+        "ef8e8b85d35bb883c613781ae5a92dbf",
+        "f4c4016214190548417085d27064a04d",
+        "fd507996955bf28148c42e467b2f6e21"
+       ],
+       "bytes": 151242457,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "c3b5a7b93cd5cb67800ca7d80de1137b",
+       "wf": 7
+      }
+     ]
+    },
+    {
+     "scene": "State_4",
+     "revisions": [
+      {
+       "from": "2024-11-14",
+       "to": "2024-12-17",
+       "first": "11.6.0.5070",
+       "last": "11.6.0_2",
+       "builds": 3,
+       "game": "11.6.0_2",
+       "pic": "78e9fd3c5e2eab7c218f66d2a44548bc",
+       "view": {
+        "spot": [
+         -3.69,
+         -11.69,
+         2.62
+        ],
+        "fwd": [
+         0.9998,
+         0.0186
+        ],
+        "eye": [
+         12.89,
+         -15.35,
+         5.03
+        ]
+       },
+       "scene": "6c25aab3a8768a38cd18bf037fe5c567",
+       "geom": "c4b26a7d2c60b12431b72cad793e26c9",
+       "hm": "b99cdfd9707a0d792d5479a31d550c9f",
+       "flora": null,
+       "inst": "e5139a05c1429d3000f881605e78eb2b",
+       "packs": [
+        "18a71a082d246bad53b8ce451d77bf09",
+        "241ab69c19575abb88f164a3dfec028b",
+        "27e7f795ce5ec48a8019be773e3e9412",
+        "29d82de6e6b338b72fee789a03656961",
+        "2af0fde949c63db7067b87808ab9e4ce",
+        "35c87b19e4d78be15b6f82b1737825f6",
+        "35f6549d2dc703d1c5821be17682bbf7",
+        "391723fb1b6ed37410292df8434398d0",
+        "526a46179ff224aab10518e80c7492c4",
+        "564f6a866955aedc11320c5d34a56be6",
+        "7c88f743f677329161eded0596b5fc49",
+        "87b43f03eb1fde0a43102e13e682a8eb",
+        "8c4de9e345d7bce2ab70535f9dd25e4b",
+        "988c61d5a5c9bde209c5b2749f8b55e8",
+        "a45730da5ccf5101d0c78a3451e58e38",
+        "cca196bdaa3c77974b121dda3fb1bd72",
+        "e0f562c8ae4540f5accb1e9e58760ab8",
+        "e529a96020e8e97ff232799cab285857",
+        "ef8e8b85d35bb883c613781ae5a92dbf",
+        "f4c4016214190548417085d27064a04d",
+        "fd507996955bf28148c42e467b2f6e21"
+       ],
+       "bytes": 151252673,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "dbf4aa7b937fa745d340ac8f8eb9ea67",
+       "wf": 7
+      }
+     ]
+    },
+    {
+     "scene": "State_5",
+     "revisions": [
+      {
+       "from": "2024-11-14",
+       "to": "2024-12-17",
+       "first": "11.6.0.5070",
+       "last": "11.6.0_2",
+       "builds": 3,
+       "game": "11.6.0_2",
+       "pic": "1a91f79e0537afd3c7e3aed0231bda0e",
+       "view": {
+        "spot": [
+         -3.69,
+         -11.69,
+         2.62
+        ],
+        "fwd": [
+         0.9998,
+         0.0186
+        ],
+        "eye": [
+         12.89,
+         -15.35,
+         5.03
+        ]
+       },
+       "scene": "08dff5697b0955be3dec62db7775031c",
+       "geom": "085d5adc4688d5cbe80ecbb508a84872",
+       "hm": "b99cdfd9707a0d792d5479a31d550c9f",
+       "flora": null,
+       "inst": "c1781c900dbff2e62bd67c6239dc4c12",
+       "packs": [
+        "18a71a082d246bad53b8ce451d77bf09",
+        "241ab69c19575abb88f164a3dfec028b",
+        "27e7f795ce5ec48a8019be773e3e9412",
+        "29d82de6e6b338b72fee789a03656961",
+        "2af0fde949c63db7067b87808ab9e4ce",
+        "35c87b19e4d78be15b6f82b1737825f6",
+        "35f6549d2dc703d1c5821be17682bbf7",
+        "391723fb1b6ed37410292df8434398d0",
+        "3da03e15e8ea1f4a04bc3968ebe4f1ae",
+        "526a46179ff224aab10518e80c7492c4",
+        "564f6a866955aedc11320c5d34a56be6",
+        "87b43f03eb1fde0a43102e13e682a8eb",
+        "8c4de9e345d7bce2ab70535f9dd25e4b",
+        "988c61d5a5c9bde209c5b2749f8b55e8",
+        "a45730da5ccf5101d0c78a3451e58e38",
+        "cca196bdaa3c77974b121dda3fb1bd72",
+        "e0f562c8ae4540f5accb1e9e58760ab8",
+        "e529a96020e8e97ff232799cab285857",
+        "ef8e8b85d35bb883c613781ae5a92dbf",
+        "f4c4016214190548417085d27064a04d",
+        "fd507996955bf28148c42e467b2f6e21"
+       ],
+       "bytes": 151291234,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "3fa39ed4d4f2a481267ed759fe305d18",
+       "wf": 7
+      }
+     ]
+    },
+    {
+     "scene": "State_6",
+     "revisions": [
+      {
+       "from": "2024-11-14",
+       "to": "2024-12-17",
+       "first": "11.6.0.5070",
+       "last": "11.6.0_2",
+       "builds": 3,
+       "game": "11.6.0_2",
+       "pic": "5b5e7af8a8d100a1eb350889509e480b",
+       "view": {
+        "spot": [
+         -3.69,
+         -11.69,
+         2.62
+        ],
+        "fwd": [
+         0.9998,
+         0.0186
+        ],
+        "eye": [
+         12.89,
+         -15.35,
+         5.03
+        ]
+       },
+       "scene": "5cb4ba4e78f3e6b4c0c9cbd3ab030e85",
+       "geom": "5189b36447aa065614df4507d6aad411",
+       "hm": "b99cdfd9707a0d792d5479a31d550c9f",
+       "flora": null,
+       "inst": "c5c7849b35bbe37ee998437d47c323c1",
+       "packs": [
+        "18a71a082d246bad53b8ce451d77bf09",
+        "241ab69c19575abb88f164a3dfec028b",
+        "27e7f795ce5ec48a8019be773e3e9412",
+        "29d82de6e6b338b72fee789a03656961",
+        "2af0fde949c63db7067b87808ab9e4ce",
+        "33266431454561490c6c2ef7349253a8",
+        "35c87b19e4d78be15b6f82b1737825f6",
+        "35f6549d2dc703d1c5821be17682bbf7",
+        "391723fb1b6ed37410292df8434398d0",
+        "526a46179ff224aab10518e80c7492c4",
+        "564f6a866955aedc11320c5d34a56be6",
+        "87b43f03eb1fde0a43102e13e682a8eb",
+        "8c4de9e345d7bce2ab70535f9dd25e4b",
+        "988c61d5a5c9bde209c5b2749f8b55e8",
+        "a45730da5ccf5101d0c78a3451e58e38",
+        "cca196bdaa3c77974b121dda3fb1bd72",
+        "e0f562c8ae4540f5accb1e9e58760ab8",
+        "e529a96020e8e97ff232799cab285857",
+        "ef8e8b85d35bb883c613781ae5a92dbf",
+        "f4c4016214190548417085d27064a04d",
+        "fd507996955bf28148c42e467b2f6e21"
+       ],
+       "bytes": 151229686,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "570d7093bed7f55faf96375e069a4351",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2024-11-14",
+   "to": "2024-12-17",
+   "thumb": {
+    "full": "d5a9a72a079ee77665c2ba3c080c792e",
+    "small": "66a3708b836163754e9753b8cebac108",
+    "src": "780c297c88b16d86199039b1333e4959"
+   }
+  },
+  {
+   "key": "hangar_halloween_24",
+   "event": true,
+   "scenes": [
+    {
+     "scene": "hv_halloween_24",
+     "revisions": [
+      {
+       "from": "2024-09-12",
+       "to": "2024-12-17",
+       "first": "11.4.0.5069",
+       "last": "11.6.0_2",
+       "builds": 5,
+       "game": "11.6.0_2",
+       "pic": "5e5c0c67bfaa90af79b14e8e29ef5d07",
+       "view": {
+        "spot": [
+         76.84,
+         144.51,
+         2.84
+        ],
+        "fwd": [
+         1.0,
+         0.0082
+        ],
+        "eye": [
+         93.39,
+         140.68,
+         5.25
+        ]
+       },
+       "scene": "6bc40c22ae21351f6033715dd332d9cf",
+       "geom": "b7a5568fb861833f3be03a8c39ef6c8e",
+       "hm": null,
+       "flora": null,
+       "inst": "363b5913d21d2bd5f1eb17443265ec76",
+       "packs": [
+        "0b16b8a70193bb389ff99b9ccd6d1da9",
+        "1188e5c5ac58609bf7819544ba49073f",
+        "35aec4c60e6bf82f6a5124c9d769afb3",
+        "37e84cb2693620d9b4841efbac0f81d6",
+        "48c8ea95a17dcf14671d139645d56fdb",
+        "4fddd5407f4cda0d66d3234cf6df9826",
+        "5c4b8afa7cc3a6b3c93637ab9ee6d2eb",
+        "91f659992c3ff18f4cda3d6e5f7ce126"
+       ],
+       "bytes": 58900579,
+       "templates": "29b5bc3c4e8965681c6ff047d6d0eef2",
+       "src": "2d137ca714058b4f81a679cc1d815255",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2024-09-12",
+   "to": "2024-12-17",
+   "thumb": {
+    "full": "bd62076a2e6580819e33f90ea5f88be8",
+    "small": "71bcc23febcfc31099d64e516a2601cc",
+    "src": "0a770a8273fdd2eb830a147715b1b262"
+   }
+  },
+  {
+   "key": "hangar_main_2024",
+   "event": false,
+   "scenes": [
+    {
+     "scene": "hv_main_24",
+     "revisions": [
+      {
+       "from": "2026-07-22",
+       "to": "2026-10-01",
+       "first": "26.8.0.175",
+       "last": "26.10.0.15",
+       "builds": 5,
+       "game": "26.10.0.15",
+       "pic": "c153adf4d561cc00bc5b7df91340c88b",
+       "view": {
+        "spot": [
+         76.84,
+         144.51,
+         2.84
+        ],
+        "fwd": [
+         1.0,
+         0.0082
+        ],
+        "eye": [
+         93.39,
+         140.68,
+         5.25
+        ]
+       },
+       "presets": [
+        "Aut_D_v1",
+        "Aut_D_v2",
+        "Aut_D_v3",
+        "Aut_N_v1",
+        "Aut_N_v2",
+        "Aut_N_v3",
+        "Default",
+        "Spr_D_v1",
+        "Spr_D_v2",
+        "Spr_D_v3",
+        "Spr_N_v1",
+        "Spr_N_v2",
+        "Spr_N_v3",
+        "Sum_D_v1",
+        "Sum_D_v2",
+        "Sum_D_v3",
+        "Sum_D_v4",
+        "Sum_N_v1",
+        "Sum_N_v2",
+        "Sum_N_v3",
+        "Win_D_v1",
+        "Win_D_v2",
+        "Win_D_v3",
+        "Win_N_v1",
+        "Win_N_v2",
+        "Win_N_v3"
+       ],
+       "scene": "c259ad3abee123adda73cda918ee2597",
+       "geom": "d338664e0ecf7aa0430888583ad3188a",
+       "hm": null,
+       "flora": null,
+       "inst": "1065213954b2a5f1f87d7f1aee0e738e",
+       "packs": [
+        "0263e87c846b20e83a9c2cdc5550c3da",
+        "0f0d5af3ce42d7e7a5eddaff39ed3552",
+        "0f98abbb0264f083236f16c475befa24",
+        "145ab406bb0b633ee2d7dc88ad30023d",
+        "19ca5a139ee0f490a8bbe2638d156768",
+        "1d38136b30df6bb3ef63ec4558059417",
+        "216279d2a418872e64ecb2c742fe36ff",
+        "28db1dde1d2edd3fe86b442abf57ca76",
+        "28ee438e72539c9a07a6f6a458b857ad",
+        "2c0bb74745ca311180cecb60318b582b",
+        "2d217673e6436a80660d673c4d89dcce",
+        "2dc3649b55eb6f017d3c34d41faa7396",
+        "30402f031f9d55892d49950faec529c3",
+        "3538647d7b07d6256ebf93bfb8526a48",
+        "3d7fd4228e2525e4b4c6eda57ed32ebb",
+        "3f22308ad597590c1a20013e091bfe89",
+        "4455ecba55af28641f435c7e0cb86361",
+        "4455ff7c2230d3579fd9cda7f033bb22",
+        "45a91c9202e538ef1224ec33c1fe4ae8",
+        "46f9fef1f94a0e73998bae6781c2362b",
+        "4bbff3f9f4165e5bb817fad25e016ce6",
+        "4d01b6cb32ea60d8b8a5564b644cadb3",
+        "50ff28427737469ce8f0212e10a5cc7d",
+        "5288cef11beabdd4798cb4ff9ff091a3",
+        "597f2d2fcb16ff06f0d4dd24bf731b15",
+        "5c94ceb009fe0c148a909901c6825b7e",
+        "64c32ce953bda0f2cb6ea47639f668d3",
+        "68c7c940091e90f783dd7e64aaca20c2",
+        "6cd6803f4d5afcba5f5128c20085a3e8",
+        "724d1882e67124e3af82dab1124b915e",
+        "7e8cac4553886604f2b454edbc43afe7",
+        "82c166a03a21e27ae02fb8269761c636",
+        "84293259d3e74f3fc785da7882c8b091",
+        "9912e34cae1d7bb060313c19c9b084a8",
+        "9be5a46457e62b66d3f1ef75845e32de",
+        "9f1dccf7ddb30a09ad5c0ea55a6e5585",
+        "a6aa0bcb31ace3e6f07535a4abb8ba2b",
+        "a735ae4bc4ff10bc60bbba2a5254845b",
+        "ac3d2c8274461e3e838266b47d800ad6",
+        "af1d4a8c58753af13bfcd3abb821be35",
+        "b058ea8ff21357e4a683e601337fbc84",
+        "b0eb0fc512409c79a224955c624e046b",
+        "b3a153c2d860f3af635839f598dd6ef2",
+        "c363552b4c14ac605d05c6db1d0797d9",
+        "c941ac32eeed58b04067e182e949dd4c",
+        "dab2effb3ce9b76e0a1462360f788ecb",
+        "e642f46f6e872df63e2ab8a06ab5d53f",
+        "e65ba85898a1566742335bb5857dff08",
+        "e844eec9032d11cc23aad56059b64681",
+        "eb36befe5ad70636f24de816e80c2cd8",
+        "ef1452818a972258e244859d8cd431a3",
+        "f72ff410351d3c462fdc572e44b17898",
+        "f8d7abfab0ce201305471753ca796677",
+        "fce7535df3de2151e3305443d0faaa0b"
+       ],
+       "bytes": 423791744,
+       "templates": "cb17cddbf44cc5aa9c2e6452b853f169",
+       "src": "95d0e3b8e32563c7070174f698678d34",
+       "wf": 7
+      },
+      {
+       "from": "2026-06-23",
+       "to": "2026-06-23",
+       "first": "26.6.0_1",
+       "last": "26.6.0_1",
+       "builds": 1,
+       "game": "26.6.0_1",
+       "pic": "69f255b0db21f891f543237f49c8c411",
+       "view": {
+        "spot": [
+         76.84,
+         144.51,
+         2.84
+        ],
+        "fwd": [
+         1.0,
+         0.0082
+        ],
+        "eye": [
+         93.39,
+         140.68,
+         5.25
+        ]
+       },
+       "presets": [
+        "Aut_D_v1",
+        "Aut_D_v2",
+        "Aut_D_v3",
+        "Aut_N_v1",
+        "Aut_N_v2",
+        "Aut_N_v3",
+        "Default",
+        "Spr_D_v1",
+        "Spr_D_v2",
+        "Spr_D_v3",
+        "Spr_N_v1",
+        "Spr_N_v2",
+        "Spr_N_v3",
+        "Sum_D_v1",
+        "Sum_D_v2",
+        "Sum_D_v3",
+        "Sum_D_v4",
+        "Sum_N_v1",
+        "Sum_N_v2",
+        "Sum_N_v3",
+        "Win_D_v1",
+        "Win_D_v2",
+        "Win_D_v3",
+        "Win_N_v1",
+        "Win_N_v2",
+        "Win_N_v3"
+       ],
+       "scene": "ae400480f89a366916017601be723230",
+       "geom": "d338664e0ecf7aa0430888583ad3188a",
+       "hm": null,
+       "flora": null,
+       "inst": "4e4c930f2ecaa653bf387f8132e3416c",
+       "packs": [
+        "0263e87c846b20e83a9c2cdc5550c3da",
+        "0f0d5af3ce42d7e7a5eddaff39ed3552",
+        "0f98abbb0264f083236f16c475befa24",
+        "145ab406bb0b633ee2d7dc88ad30023d",
+        "19ca5a139ee0f490a8bbe2638d156768",
+        "1d38136b30df6bb3ef63ec4558059417",
+        "216279d2a418872e64ecb2c742fe36ff",
+        "28db1dde1d2edd3fe86b442abf57ca76",
+        "28ee438e72539c9a07a6f6a458b857ad",
+        "2c0bb74745ca311180cecb60318b582b",
+        "2d217673e6436a80660d673c4d89dcce",
+        "2dc3649b55eb6f017d3c34d41faa7396",
+        "30402f031f9d55892d49950faec529c3",
+        "3538647d7b07d6256ebf93bfb8526a48",
+        "3d7fd4228e2525e4b4c6eda57ed32ebb",
+        "3f22308ad597590c1a20013e091bfe89",
+        "4455ecba55af28641f435c7e0cb86361",
+        "4455ff7c2230d3579fd9cda7f033bb22",
+        "45a91c9202e538ef1224ec33c1fe4ae8",
+        "46f9fef1f94a0e73998bae6781c2362b",
+        "4bbff3f9f4165e5bb817fad25e016ce6",
+        "4d01b6cb32ea60d8b8a5564b644cadb3",
+        "50ff28427737469ce8f0212e10a5cc7d",
+        "5288cef11beabdd4798cb4ff9ff091a3",
+        "597f2d2fcb16ff06f0d4dd24bf731b15",
+        "5c94ceb009fe0c148a909901c6825b7e",
+        "64c32ce953bda0f2cb6ea47639f668d3",
+        "68c7c940091e90f783dd7e64aaca20c2",
+        "6cd6803f4d5afcba5f5128c20085a3e8",
+        "724d1882e67124e3af82dab1124b915e",
+        "7e8cac4553886604f2b454edbc43afe7",
+        "82c166a03a21e27ae02fb8269761c636",
+        "84293259d3e74f3fc785da7882c8b091",
+        "9912e34cae1d7bb060313c19c9b084a8",
+        "9be5a46457e62b66d3f1ef75845e32de",
+        "9f1dccf7ddb30a09ad5c0ea55a6e5585",
+        "a6aa0bcb31ace3e6f07535a4abb8ba2b",
+        "a735ae4bc4ff10bc60bbba2a5254845b",
+        "ac3d2c8274461e3e838266b47d800ad6",
+        "af1d4a8c58753af13bfcd3abb821be35",
+        "b058ea8ff21357e4a683e601337fbc84",
+        "b0eb0fc512409c79a224955c624e046b",
+        "b3a153c2d860f3af635839f598dd6ef2",
+        "c363552b4c14ac605d05c6db1d0797d9",
+        "c941ac32eeed58b04067e182e949dd4c",
+        "dab2effb3ce9b76e0a1462360f788ecb",
+        "e642f46f6e872df63e2ab8a06ab5d53f",
+        "e65ba85898a1566742335bb5857dff08",
+        "e844eec9032d11cc23aad56059b64681",
+        "eb36befe5ad70636f24de816e80c2cd8",
+        "ef1452818a972258e244859d8cd431a3",
+        "f72ff410351d3c462fdc572e44b17898",
+        "f8d7abfab0ce201305471753ca796677",
+        "fce7535df3de2151e3305443d0faaa0b"
+       ],
+       "bytes": 423791750,
+       "templates": "cb17cddbf44cc5aa9c2e6452b853f169",
+       "src": "40ea771f4c194018de5d9bdf01aff1c2",
+       "wf": 7
+      },
+      {
+       "from": "2026-05-14",
+       "to": "2026-05-14",
+       "first": "26.6.0.169",
+       "last": "26.6.0.169",
+       "builds": 1,
+       "game": "26.6.0.169",
+       "pic": "56db91a29ed2068aa8dd98182a7012c9",
+       "view": {
+        "spot": [
+         76.84,
+         144.51,
+         2.84
+        ],
+        "fwd": [
+         1.0,
+         0.0082
+        ],
+        "eye": [
+         93.39,
+         140.68,
+         5.25
+        ]
+       },
+       "presets": [
+        "Aut_D_v1",
+        "Aut_D_v2",
+        "Aut_D_v3",
+        "Aut_N_v1",
+        "Aut_N_v2",
+        "Aut_N_v3",
+        "Default",
+        "Sum_D_v1",
+        "Sum_D_v2",
+        "Sum_D_v3",
+        "Sum_D_v4",
+        "Sum_N_v1",
+        "Sum_N_v2",
+        "Sum_N_v3"
+       ],
+       "scene": "0b6678c99b4703a4a2f8c85bd682025e",
+       "geom": "22ebfe97aba437486987c9a710fc5e38",
+       "hm": null,
+       "flora": null,
+       "inst": "4aaf9b5cfc58c3e909fc51634e8eb4d4",
+       "packs": [
+        "027e9003cd34663798571abd6a4dc88a",
+        "06d6d64a41f9e3b560e34009ab6ead75",
+        "06de951a581fd86e4af27be464f1f47a",
+        "0c63c90dbdea7b73184a177419b4e8d8",
+        "1ba9f9c6a031cfe710038e5da3e67537",
+        "3cf96d5fa6338fd3891d699afc7f8c41",
+        "5faff825185a1f05bd9337b95081b130",
+        "687c8adc8620078fd96c8286da2a3c8a",
+        "6e08102910bdce1f4a145a5f43602b7f",
+        "7607e799b108676c3e381ff7c838360b",
+        "7885508a971a8f06b3ed7a16209b1c62",
+        "7a6b93b11dc4137215b7b1017e348de2",
+        "821559b305a1275c14f4f2a0c88dd323",
+        "8873673cdd2e7eabe5d912e8621c7551",
+        "890a42b98a83b98009a26d490f8b4f0c",
+        "9cfdbdaa8e18d70a98a3dd6ecc36f060",
+        "9ddf3c9755ea1a8017c1c9728a40ed53",
+        "a1c606e52c6ba0018939be8abf055bd5",
+        "a861b7616792851ce5ad28928db4e716",
+        "c4551614a2c97e7a5a0efb0c3307b9e1",
+        "cbb0481949fa3a4d62b37bfc84aee940",
+        "cf08600e3ce6edbbc9df9c22018785d3",
+        "d17cf28421615ea7ee07d18d95190a97",
+        "d7be6cfa3064789f4e4b323a82f208a2",
+        "da7a8b877586b58959059c95df7e66a0",
+        "e84483da9b6ea8321b8378b9150ad0f9",
+        "e947dec9d64d753db92e0b3bce75ba0c",
+        "ed58017847dbc3154e2e579525481106",
+        "ee444e0bed0be21c98ce10edcac864f8",
+        "f8db4c9c9ebf07d5e12cda32f51ae08d"
+       ],
+       "bytes": 233879216,
+       "templates": "cb17cddbf44cc5aa9c2e6452b853f169",
+       "src": "44ad052fec008a4dc104f7a59e71c437",
+       "wf": 7
+      },
+      {
+       "from": "2026-01-19",
+       "to": "2026-04-28",
+       "first": "26.2.0.163",
+       "last": "26.4.0_2",
+       "builds": 7,
+       "game": "26.4.0_2",
+       "pic": "9de251a906fcf7ccaa59f966f5016f1a",
+       "view": {
+        "spot": [
+         76.84,
+         144.51,
+         2.84
+        ],
+        "fwd": [
+         1.0,
+         0.0082
+        ],
+        "eye": [
+         93.39,
+         140.68,
+         5.25
+        ]
+       },
+       "scene": "781ac1074eeaa3e2eb8eb25c400a7833",
+       "geom": "3f28a64ebdafca417c28b39c9e97bf8b",
+       "hm": null,
+       "flora": null,
+       "inst": "7bfedb38628297eb56dcbc71f4bfebe4",
+       "packs": [
+        "044bc0a5ea3c2930aded91cb9d457e79",
+        "3a32f60f7d54fe54a64ae3b7e961ffc8",
+        "538d7f4c7114eaeed1890c07995f51f9",
+        "7ddeae8a99ed0aab79c9145ebf00038c",
+        "a418f1e47221c7561acbf338f6dfcf08",
+        "a6713fe72810a98551dfa67a051ea73b",
+        "aa53d6a56d5bf43654453b6221bf8f3e",
+        "c01e5771e9183ed0a8f3b900d1a42a9f",
+        "c2101d518fd6184215794afa8a748749",
+        "cfe71c47bfc30b39acb689555bec148e",
+        "df2b0b2799adfe2e9f9a6eb695fcd63f",
+        "e002c715bf023bb3049792d3e38003df",
+        "f5c9dcf92efe77ef87dcd52502d2992f",
+        "fa7a57a4d628d6fd93dc89e69daf0f87"
+       ],
+       "bytes": 97696905,
+       "templates": "cb17cddbf44cc5aa9c2e6452b853f169",
+       "src": "c6f697a998dbba4cb82140c59c697431",
+       "wf": 7
+      },
+      {
+       "from": "2025-08-26",
+       "to": "2025-12-22",
+       "first": "12.2.0_2",
+       "last": "12.6.0_1",
+       "builds": 8,
+       "game": "12.6.0_1",
+       "pic": "071cfc54c265ea944555b7fd4627602c",
+       "view": {
+        "spot": [
+         76.84,
+         144.51,
+         2.84
+        ],
+        "fwd": [
+         1.0,
+         0.0082
+        ],
+        "eye": [
+         93.39,
+         140.68,
+         5.25
+        ]
+       },
+       "scene": "de7aaba5e9bca630416f90501c3209ec",
+       "geom": "7ebf1a7ddfcc1091c5540e7bace838d7",
+       "hm": null,
+       "flora": null,
+       "inst": "4bf7528886af7a94f3cccb39a5d43e22",
+       "packs": [
+        "044bc0a5ea3c2930aded91cb9d457e79",
+        "3a32f60f7d54fe54a64ae3b7e961ffc8",
+        "538d7f4c7114eaeed1890c07995f51f9",
+        "7ddeae8a99ed0aab79c9145ebf00038c",
+        "a418f1e47221c7561acbf338f6dfcf08",
+        "a6713fe72810a98551dfa67a051ea73b",
+        "aa53d6a56d5bf43654453b6221bf8f3e",
+        "c01e5771e9183ed0a8f3b900d1a42a9f",
+        "c2101d518fd6184215794afa8a748749",
+        "cfe71c47bfc30b39acb689555bec148e",
+        "df2b0b2799adfe2e9f9a6eb695fcd63f",
+        "e002c715bf023bb3049792d3e38003df",
+        "f5c9dcf92efe77ef87dcd52502d2992f",
+        "fa7a57a4d628d6fd93dc89e69daf0f87"
+       ],
+       "bytes": 97695116,
+       "templates": "49bcc590a2e7b92123ba0fdcad0f0a64",
+       "src": "51ce3fe2c92791d37c66f4644822bb52",
+       "wf": 7
+      },
+      {
+       "from": "2025-06-24",
+       "to": "2025-08-06",
+       "first": "12.0.0_1",
+       "last": "12.2.0_1",
+       "builds": 3,
+       "game": "12.2.0_1",
+       "pic": "1d0db0334bf777fd75aa7b6fc26ff22c",
+       "view": {
+        "spot": [
+         76.84,
+         144.51,
+         2.84
+        ],
+        "fwd": [
+         1.0,
+         0.0082
+        ],
+        "eye": [
+         93.39,
+         140.68,
+         5.25
+        ]
+       },
+       "scene": "ea9799410ac590b25f715ea64251fbae",
+       "geom": "f88810bcf52d09a6e9bae5e97373567e",
+       "hm": null,
+       "flora": null,
+       "inst": "39f67f0eeadd4a93646776b1cb426c07",
+       "packs": [
+        "0dc55609c8a5147c086fe374ed1ba7db",
+        "5431f45623e041552ede37f9d976b1bb",
+        "640640b783b7224eddcd932e2b5ee59e",
+        "8ed76c366bbfb3d4fdb3733aee156104",
+        "a6713fe72810a98551dfa67a051ea73b",
+        "b988c0ea4cb0e1330e23edd8f874c086",
+        "bee3cd20a9c37ba84cc8e2145d490928",
+        "cde79f1821d48ad69ff1d692beb884b6",
+        "df2b0b2799adfe2e9f9a6eb695fcd63f",
+        "e002c715bf023bb3049792d3e38003df",
+        "fc7b6a6948179a41b1e798796e8b24a3"
+       ],
+       "bytes": 83634893,
+       "templates": "ac45595fea683a68c352394e722f291a",
+       "src": "0b319f6b0e0113de551f721a82936174",
+       "wf": 7
+      },
+      {
+       "from": "2025-05-22",
+       "to": "2025-05-22",
+       "first": "12.0.0.5074",
+       "last": "12.0.0.5074",
+       "builds": 1,
+       "game": "12.0.0.5074",
+       "pic": "74d8d32fc2c67ad92155a0195d3a29e2",
+       "view": {
+        "spot": [
+         76.84,
+         144.51,
+         2.84
+        ],
+        "fwd": [
+         1.0,
+         0.0082
+        ],
+        "eye": [
+         93.39,
+         140.68,
+         5.25
+        ]
+       },
+       "scene": "e0706886dc47c7ad9c30e01bafe91b8e",
+       "geom": "6ac409df670cec71cb0d81bb6f426e0c",
+       "hm": null,
+       "flora": null,
+       "inst": "26d19a713faae173d24781c60ea774e6",
+       "packs": [
+        "201764d23f8b8e11298726ec59da01a8",
+        "307ae9e7db73900a058809e91f5b3d84",
+        "7a6005356e16119f8e208e7384034a26",
+        "80d7219db31221787cb93ab94e353830",
+        "9332574c08e7b0d861860d8ce69d5f38",
+        "a6713fe72810a98551dfa67a051ea73b",
+        "a7cfbf367e0082f261c7f31fc0b5aa5a",
+        "bee3cd20a9c37ba84cc8e2145d490928",
+        "cdd83f27845f72c9970e913b90276af4",
+        "df2b0b2799adfe2e9f9a6eb695fcd63f",
+        "e5a979a6b10d881ce754ca7f156ecbe7"
+       ],
+       "bytes": 81706781,
+       "templates": "ac45595fea683a68c352394e722f291a",
+       "src": "cd871ad40b317173e0dc89b33bc273ff",
+       "wf": 7
+      },
+      {
+       "from": "2025-03-17",
+       "to": "2025-04-25",
+       "first": "11.10.0.5073",
+       "last": "11.10.0_2",
+       "builds": 3,
+       "game": "11.10.0_2",
+       "pic": "1c723606359afffa5369e1d9e13e5200",
+       "view": {
+        "spot": [
+         76.84,
+         144.51,
+         2.84
+        ],
+        "fwd": [
+         1.0,
+         0.0082
+        ],
+        "eye": [
+         93.39,
+         140.68,
+         5.25
+        ]
+       },
+       "scene": "fbe40ee68dfb9bd31c07fee173ace95c",
+       "geom": "6ac409df670cec71cb0d81bb6f426e0c",
+       "hm": null,
+       "flora": null,
+       "inst": "f9a074c2684f7e600dde0f5622a63de3",
+       "packs": [
+        "201764d23f8b8e11298726ec59da01a8",
+        "307ae9e7db73900a058809e91f5b3d84",
+        "7a6005356e16119f8e208e7384034a26",
+        "80d7219db31221787cb93ab94e353830",
+        "9332574c08e7b0d861860d8ce69d5f38",
+        "a6713fe72810a98551dfa67a051ea73b",
+        "a7cfbf367e0082f261c7f31fc0b5aa5a",
+        "bee3cd20a9c37ba84cc8e2145d490928",
+        "cdd83f27845f72c9970e913b90276af4",
+        "df2b0b2799adfe2e9f9a6eb695fcd63f",
+        "e5a979a6b10d881ce754ca7f156ecbe7"
+       ],
+       "bytes": 81706442,
+       "templates": "ac45595fea683a68c352394e722f291a",
+       "src": "5324f2e2ece02fd70ed4e2402e5ef7b9",
+       "wf": 7
+      },
+      {
+       "from": "2025-01-20",
+       "to": "2025-02-25",
+       "first": "11.8.0.5071",
+       "last": "11.8.1_1",
+       "builds": 3,
+       "game": "11.8.1_1",
+       "pic": "294ceaa36fc3d3fe08073dc9fb61bcfb",
+       "view": {
+        "spot": [
+         76.84,
+         144.51,
+         2.84
+        ],
+        "fwd": [
+         1.0,
+         0.0082
+        ],
+        "eye": [
+         93.39,
+         140.68,
+         5.25
+        ]
+       },
+       "scene": "42ba7fd8cba8a047740f4c2282c93f33",
+       "geom": "6ac409df670cec71cb0d81bb6f426e0c",
+       "hm": null,
+       "flora": null,
+       "inst": "bead585eed4866952858c2ac33ea4d8e",
+       "packs": [
+        "0d6a4fcc6a94f28eced18a2f9a83203c",
+        "201764d23f8b8e11298726ec59da01a8",
+        "2e399a36fa0daeb2e2ef7b8a418d6652",
+        "6de0638aa261cf7ce91586da85182bab",
+        "80d7219db31221787cb93ab94e353830",
+        "8e62a7e67dbc83af0a16a69bb0e63d88",
+        "9e538e6ee17f0666cc385f695de920b8",
+        "a6713fe72810a98551dfa67a051ea73b",
+        "a7cfbf367e0082f261c7f31fc0b5aa5a",
+        "b9006c82852cd08aefac219121577eec",
+        "df2b0b2799adfe2e9f9a6eb695fcd63f"
+       ],
+       "bytes": 82205175,
+       "templates": "7eafcedc0065f01d5a32e8dec61e8dcc",
+       "src": "84ebe612617e9ac2f7fc567a5aab5a44",
+       "wf": 7
+      },
+      {
+       "from": "2024-07-19",
+       "to": "2024-12-17",
+       "first": "11.2.0.5065",
+       "last": "11.6.0_2",
+       "builds": 10,
+       "game": "11.6.0_2",
+       "pic": "2839f26eaadf65bfa1ff1c85e4a45f86",
+       "view": {
+        "spot": [
+         76.84,
+         144.51,
+         2.84
+        ],
+        "fwd": [
+         1.0,
+         0.0082
+        ],
+        "eye": [
+         93.39,
+         140.68,
+         5.25
+        ]
+       },
+       "scene": "198626b73d42dab84e6826b084e32f4e",
+       "geom": "6ac409df670cec71cb0d81bb6f426e0c",
+       "hm": null,
+       "flora": null,
+       "inst": "35db523b15febd98caf7392421d55458",
+       "packs": [
+        "201764d23f8b8e11298726ec59da01a8",
+        "2e399a36fa0daeb2e2ef7b8a418d6652",
+        "7a6005356e16119f8e208e7384034a26",
+        "80d7219db31221787cb93ab94e353830",
+        "91a2bf47e4f1b22cf3c2141a4363bbfa",
+        "9332574c08e7b0d861860d8ce69d5f38",
+        "a6713fe72810a98551dfa67a051ea73b",
+        "a7cfbf367e0082f261c7f31fc0b5aa5a",
+        "dd366fc320814ef0efda78ea2a1b56ae",
+        "dd40c88b2481e52263b0944713fad525",
+        "df2b0b2799adfe2e9f9a6eb695fcd63f"
+       ],
+       "bytes": 81718186,
+       "templates": "29b5bc3c4e8965681c6ff047d6d0eef2",
+       "src": "b23c11f38dc85f201512621b55c9ca2b",
+       "wf": 7
+      },
+      {
+       "from": "2024-07-09",
+       "to": "2024-07-09",
+       "first": "11.0.0_2",
+       "last": "11.0.0_2",
+       "builds": 1,
+       "game": "11.0.0_2",
+       "pic": "3d437c3ba823b08196dfbc252d79c4f3",
+       "view": {
+        "spot": [
+         76.84,
+         144.51,
+         2.84
+        ],
+        "fwd": [
+         1.0,
+         0.0082
+        ],
+        "eye": [
+         93.39,
+         140.68,
+         5.25
+        ]
+       },
+       "scene": "6d3d0caf787069477c3771da64a9e4f4",
+       "geom": "095d2a41899d658388460ba429d97cba",
+       "hm": null,
+       "flora": null,
+       "inst": "a0bcf30abe0dd648e0d5127691af180c",
+       "packs": [
+        "4b0c3c415efa8ba8d76d403c7b8c3bd3",
+        "68e0b03012e4829f68f572e94da95fd2",
+        "6d7ffd1deef54ca9edb16f1aec2ea73e",
+        "6e6f91ca1ecc6d2b705c487b56e98cdb",
+        "6fd7819795cac6618ce2a95f0487e62f",
+        "9a7605cdc1bc04ca41c1fe3ca0da933f",
+        "a59100ed954146e2c0195bf8a1a6e41f",
+        "a6713fe72810a98551dfa67a051ea73b",
+        "af71ed6abb6b0404e0ef5b766ab573b1",
+        "b46c5705843cfcfcea9ed969c510c630",
+        "da063070986f4b068093a2c594cc400e",
+        "df2b0b2799adfe2e9f9a6eb695fcd63f"
+       ],
+       "bytes": 92173159,
+       "templates": "29b5bc3c4e8965681c6ff047d6d0eef2",
+       "src": "74f068cf14f50b3cb1852335bd84e2af",
+       "wf": 7
+      },
+      {
+       "from": "2024-06-06",
+       "to": "2024-06-21",
+       "first": "11.0.0.5062",
+       "last": "11.0.0.5063",
+       "builds": 3,
+       "game": "11.0.0.5063",
+       "pic": "e4cfcf22158bcb06957beb23ebfa2512",
+       "view": {
+        "spot": [
+         76.84,
+         144.51,
+         2.84
+        ],
+        "fwd": [
+         1.0,
+         0.0082
+        ],
+        "eye": [
+         93.39,
+         140.68,
+         5.25
+        ]
+       },
+       "scene": "30a84533d667abc6daf310e000412fa9",
+       "geom": "9f788ac3b53963a5c0d32d08f09e9ab3",
+       "hm": null,
+       "flora": null,
+       "inst": "45cecbbb5927df8ae6ecea9f2b039ca7",
+       "packs": [
+        "15283b191345b0116acacb145d8a9136",
+        "4a2f3bc7706d63b18b689f84ddbacace",
+        "6718c5c188d261d2a8dbc12948e60315",
+        "80d7219db31221787cb93ab94e353830",
+        "81fde209c037236ee4cb15aaddff107f",
+        "857a9f3471e99e8385f3caae70a2e95c",
+        "8914e4785dcf7ebffff7af513b23f266",
+        "b816875e1c203c03795338fd182ca28d",
+        "b853bbc073ebe6866b342c887fbc0620",
+        "bdf6a883e9a74e5a4c46cfcb8893ebe4",
+        "d55cc8d15930fef40ac0410c3c507708",
+        "e3dfb117d6c1ba2c99f1f20daab0345d"
+       ],
+       "bytes": 83479337,
+       "templates": "29b5bc3c4e8965681c6ff047d6d0eef2",
+       "src": "9d41b842513a2717a264d5db27b5729d",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2024-06-06",
+   "to": "2026-10-01",
+   "thumb": {
+    "full": "87f2eb0abf914a6fd984560e1a518d96",
+    "small": "173c6efa8392c0439026042fffae8c71",
+    "src": "f6e0e599102c9e55fc89431f74bb4648"
+   }
+  },
+  {
+   "key": "hangar_9May_24",
+   "event": true,
+   "scenes": [
+    {
+     "scene": "hg_9may_24",
+     "revisions": [
+      {
+       "from": "2024-04-19",
+       "to": "2024-05-23",
+       "first": "10.11.0.5061",
+       "last": "10.11.0_1",
+       "builds": 2,
+       "game": "10.11.0_1",
+       "pic": "b5b5b0c08303f125a3d40c105d5c4cf6",
+       "view": {
+        "spot": [
+         -3.64,
+         -10.69,
+         2.47
+        ],
+        "fwd": [
+         0.9997,
+         0.0225
+        ],
+        "eye": [
+         12.91,
+         -14.53,
+         5.11
+        ]
+       },
+       "shot": {
+        "eye": [
+         -13.54,
+         -0.79,
+         6.97
+        ],
+        "look": [
+         14.04,
+         -28.37,
+         3.97
+        ]
+       },
+       "scene": "94140e13f5f50e8b9c4bbc5880ba3904",
+       "geom": "0ef4af725ffc29b4af085c838a18caa7",
+       "hm": "78ac0d0db38c13af9590170f0e2439c0",
+       "flora": "99836e225390bca9b3f7da3cd693aa15",
+       "inst": "ea27cbb77785de84542b99faf10008fc",
+       "packs": [
+        "1eba995671069a97e63c495d569aa51c",
+        "3ddfa3b742eff2828301ebb5c4892dd8",
+        "726321fb5c4c30fb60e0039e5f930267",
+        "914aebc7d79117a8202de9f432995062",
+        "96793639ee7a7aebe671dd467d8d9f7b",
+        "a3a885345381ae879ed5e44abfec24ab",
+        "d8f3fa5a6b02d27de5634ff8c25434c9"
+       ],
+       "bytes": 53841968,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "07f9a33efbe838c38ddfef1729fb3e2d",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2024-04-19",
+   "to": "2024-05-23",
+   "thumb": {
+    "full": "a607a81bca17a35df39f42d93da17d31",
+    "small": "6a7043e1fd8834a357f7e23bdfe2c876",
+    "src": "e184ae04cd84049da6ea8cedcd054644"
+   }
+  },
+  {
+   "key": "hangar_new_year_2023",
+   "event": true,
+   "scenes": [
+    {
+     "scene": "hangar_new_year_2023",
+     "revisions": [
+      {
+       "from": "2023-11-30",
+       "to": "2024-01-09",
+       "first": "10.4.0_1",
+       "last": "10.4.0_3",
+       "builds": 3,
+       "game": "10.4.0_3",
+       "pic": "d5ee221b47dfd3ce69b6b78acd8c8d1f",
+       "view": {
+        "spot": [
+         -16.93,
+         1.75,
+         26.36
+        ],
+        "fwd": [
+         0.9997,
+         0.0225
+        ],
+        "eye": [
+         -0.38,
+         -2.09,
+         29.65
+        ]
+       },
+       "scene": "29d6082948dd72b841bbf99de5b93738",
+       "geom": "a70d103a316369f285cd09b9bde44d74",
+       "hm": "844b0e8d18cb95844997289e77a4463d",
+       "flora": null,
+       "inst": "0c8639df2b9c1bc3a47192c9b12c3cfe",
+       "packs": [
+        "0c528414587dfabbc945399487925524",
+        "0ffa938b28807135d04ea0f8ccb77527",
+        "3a23ec69e4bb583bbdceb41fd625333b",
+        "902b5fbb3befd255082c42cdedea0b2e"
+       ],
+       "bytes": 26018796,
+       "templates": "8dc646ba689c850e0308d193932dfd4a",
+       "src": "fcf680a8d3c86a8f3ed04cbdd792b2a3",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2023-11-30",
+   "to": "2024-01-09",
+   "thumb": {
+    "full": "9c1ce35023016e8c67601417a1da7f7b",
+    "small": "df66d1b91b6459261c19e48a79ec98a3",
+    "src": "d698420317bc3433426233be336bd068"
+   }
+  },
+  {
+   "key": "hangar_platoon22",
+   "event": false,
+   "scenes": [
+    {
+     "scene": "hv_main",
+     "revisions": [
+      {
+       "from": "2024-04-19",
+       "to": "2024-05-23",
+       "first": "10.11.0.5061",
+       "last": "10.11.0_1",
+       "builds": 2,
+       "game": "10.11.0_1",
+       "pic": "52bf1983821e359a8cbffd4df88be95d",
+       "view": {
+        "spot": [
+         42.01,
+         6.84,
+         2.73
+        ],
+        "fwd": [
+         0.8476,
+         0.5306
+        ],
+        "eye": [
+         58.2,
+         12.0,
+         6.0
+        ]
+       },
+       "scene": "d2f3f607db2b4784435ebd801693f556",
+       "geom": "5613f38981b585aa4158e2f1fb5b8923",
+       "hm": "0cfa2ed59183309b4d219e564a20f6ce",
+       "flora": "af5c2acf52ca5f60c151724f52230353",
+       "inst": "7357ec83ed8f8c2da7eb8a274b8a4e87",
+       "packs": [
+        "083627b86128ee90ca0ac9ebaa057a75",
+        "278b7adcd051ed84437b0625306fabe4",
+        "441d68b85ad6b7ac5fd9185f3fb9b729",
+        "61246ed328b082d5de7249198e7cf828",
+        "b84a106c91db32dbbfe29e8c90b2ed7f"
+       ],
+       "bytes": 40650897,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "f497d86208ce971deb876cc364612948",
+       "wf": 7
+      },
+      {
+       "from": "2023-11-08",
+       "to": "2024-04-02",
+       "first": "10.4.0.5054",
+       "last": "10.9.0_1",
+       "builds": 12,
+       "game": "10.9.0_1",
+       "pic": "5b737c8d36a942a897688769aabc2c0d",
+       "view": {
+        "spot": [
+         42.01,
+         6.84,
+         2.73
+        ],
+        "fwd": [
+         0.8476,
+         0.5306
+        ],
+        "eye": [
+         58.2,
+         12.0,
+         6.0
+        ]
+       },
+       "scene": "7bf36e1882e6c367398855b03f21fd7d",
+       "geom": "5613f38981b585aa4158e2f1fb5b8923",
+       "hm": "0cfa2ed59183309b4d219e564a20f6ce",
+       "flora": "af5c2acf52ca5f60c151724f52230353",
+       "inst": "837d52b3a4109e1f9c141706df7d26b9",
+       "packs": [
+        "083627b86128ee90ca0ac9ebaa057a75",
+        "278b7adcd051ed84437b0625306fabe4",
+        "441d68b85ad6b7ac5fd9185f3fb9b729",
+        "61246ed328b082d5de7249198e7cf828",
+        "b84a106c91db32dbbfe29e8c90b2ed7f"
+       ],
+       "bytes": 40650813,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "82f2c046ade59c0619dec75caaa15df2",
+       "wf": 7
+      },
+      {
+       "from": "2023-09-19",
+       "to": "2023-10-06",
+       "first": "10.3.0.5052",
+       "last": "10.3.0.5053",
+       "builds": 2,
+       "game": "10.3.0.5053",
+       "pic": "8a22c5cdceb26bd1483b949ba524258d",
+       "view": {
+        "spot": [
+         -42.01,
+         -6.84,
+         2.72
+        ],
+        "fwd": [
+         -0.8476,
+         -0.5306
+        ],
+        "eye": [
+         -58.2,
+         -12.0,
+         6.0
+        ]
+       },
+       "scene": "92003c7f76bdd501a314de75c0f8ccd8",
+       "geom": "5613f38981b585aa4158e2f1fb5b8923",
+       "hm": "9fa0364d15d51459f0406ad21171a766",
+       "flora": "63c4e5713da336ca4e43b3c9c2462d3d",
+       "inst": "96bc38dfd8ec5529f1c91b8ddf65bd59",
+       "packs": [
+        "278b7adcd051ed84437b0625306fabe4",
+        "4690c9f13cf9ef5177041238a3cf3aef",
+        "61246ed328b082d5de7249198e7cf828",
+        "b011ca334f0cd665acc795bdf903c39f",
+        "c712bec1c5e0bcfedfd7fce5edd7b7db"
+       ],
+       "bytes": 40650258,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "0a551dee43fab1031fb5ae5aa1a4fe99",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2023-09-19",
+   "to": "2024-05-23",
+   "thumb": {
+    "full": "36ebd92d1fd928bf68faf1b01bb5bc5b",
+    "small": "73c100e54d26f7f7db3227b49290c308",
+    "src": "9f2fc0cd3a02957e1a631e2c0ab0a0b2"
+   }
+  },
+  {
+   "key": "hangar_helloween_2023",
+   "event": true,
+   "scenes": [
+    {
+     "scene": "hangar_hell23",
+     "revisions": [
+      {
+       "from": "2023-09-19",
+       "to": "2023-10-06",
+       "first": "10.3.0.5052",
+       "last": "10.3.0.5053",
+       "builds": 2,
+       "game": "10.3.0.5053",
+       "pic": "c7b78d2ddc90dc64bbe8ca6a707bf9d0",
+       "view": {
+        "spot": [
+         78.05,
+         147.71,
+         3.38
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ]
+       },
+       "scene": "321ae71108458a0a5ed4c1411aa952aa",
+       "geom": "4c3fc31ffec3134c28c7ff7ccf19119e",
+       "hm": null,
+       "flora": null,
+       "inst": "982e1cc44acb9475f0368ba1c0106519",
+       "packs": [
+        "25fcde4d32ef102e1dd68d3847a5d67f",
+        "434fa012b7d3e631187e056103f44bd5",
+        "4bca1b00087f751a0ab0ce6d8fce222f",
+        "5a51e693f142d2948ecfeff30d4a245d",
+        "6050f4cfe3b5a306979501568f3efda8",
+        "a515cf9c60ff347e7f2a6a7933839cfb",
+        "d377e99d5c8ee018aefadd3cae9949ce",
+        "daef5982b18a2b53f6369c07728090a1"
+       ],
+       "bytes": 59466333,
+       "templates": "8dc646ba689c850e0308d193932dfd4a",
+       "src": "ce82a4b57135aa73c5db1e9ef6f4a8ea",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2023-09-19",
+   "to": "2023-10-06",
+   "thumb": {
+    "full": "f0d4a9dd7fd299c4b5897bdf53cb8e4f",
+    "small": "693cae664cc091767a0d366cca367d3c",
+    "src": "a743a23587a43ac8f408e7eaad3d9dd4"
+   }
+  },
+  {
+   "key": "hangar_platoon22_hell23",
+   "event": true,
+   "scenes": [
+    {
+     "scene": "hv_main",
+     "revisions": [
+      {
+       "from": "2023-09-19",
+       "to": "2023-10-06",
+       "first": "10.3.0.5052",
+       "last": "10.3.0.5053",
+       "builds": 2,
+       "game": "10.3.0.5053",
+       "pic": "ec958947ebc5c074a2338bd63ec83219",
+       "view": {
+        "spot": [
+         -42.01,
+         -6.84,
+         2.72
+        ],
+        "fwd": [
+         -0.8476,
+         -0.5306
+        ],
+        "eye": [
+         -58.2,
+         -12.0,
+         6.0
+        ]
+       },
+       "scene": "d3e92faa0d9dc08f4b923a1a57b0891e",
+       "geom": "cd95523d85eee463499d5c7a49457ba4",
+       "hm": "9fa0364d15d51459f0406ad21171a766",
+       "flora": "ed2798eddd1d818635153fb1d9c6dd47",
+       "inst": "d6d5c51ee3ac3f88be0289521aae9d96",
+       "packs": [
+        "278b7adcd051ed84437b0625306fabe4",
+        "2862882121c0724d500daadd6f5e74a7",
+        "53ccac04d60f2c1e066f017d074edb96",
+        "61246ed328b082d5de7249198e7cf828",
+        "9aa63cd63ecb582310f96e62a1939e2d",
+        "be3574ed90ff1969bb2c4cbd87e69035"
+       ],
+       "bytes": 41365844,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "71a138046c98bd39258f5439b63ad1b6",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2023-09-19",
+   "to": "2023-10-06",
+   "thumb": {
+    "full": "7998804b5e2efbdce2e0ddb498837ae4",
+    "small": "25d97b96cd4c1a3898be4b344c24927a",
+    "src": "e120eb3de939754e1e893d217974e387"
+   }
+  },
+  {
+   "key": "hangar_season1",
+   "event": true,
+   "scenes": [
+    {
+     "scene": "hangar_season1_stage1",
+     "revisions": [
+      {
+       "from": "2023-05-15",
+       "to": "2023-08-15",
+       "first": "10.0.0.5050",
+       "last": "10.1.5_1",
+       "builds": 3,
+       "game": "10.1.5_1",
+       "pic": "fb4ef2d63731c8f17438355922da870e",
+       "view": {
+        "spot": [
+         78.05,
+         147.71,
+         3.38
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ]
+       },
+       "scene": "7783a4b11609377ae66ecfbb516834aa",
+       "geom": "369c656d7a50585ee72fe39b86a0078c",
+       "hm": null,
+       "flora": null,
+       "inst": "1eec2710208b2a88a4fe95eac0cca2bb",
+       "packs": [
+        "1327a40bbd016dc900bfc0af351eae3e",
+        "2000e92f622f4777ce2e14eb6a3cdb98",
+        "2fd91638da1907b2d79172b68ea1e205",
+        "67e097a5b5411754be582a87b9b8cdf3",
+        "780b72159bd7a3d53dc43f7b9cb3a903",
+        "ba1ddffddddd3e0730e632d9c7994949",
+        "cd06df97e0a003d1286bb26e981866b5",
+        "e1c5f6d9d6fd7922b8de225ca39b618d",
+        "e41521a67ec4ac7606f92fb63dc7d071",
+        "ff70b225a1107c81168c11549dbf4a27"
+       ],
+       "bytes": 78689579,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "d7cc8894ef754441c3a0dcb52147393a",
+       "wf": 7
+      }
+     ]
+    },
+    {
+     "scene": "hangar_season1_stage2",
+     "revisions": [
+      {
+       "from": "2023-06-26",
+       "to": "2023-08-15",
+       "first": "10.1.0.5051",
+       "last": "10.1.5_1",
+       "builds": 2,
+       "game": "10.1.5_1",
+       "pic": "35f7754983dd9965b109b22e17271697",
+       "view": {
+        "spot": [
+         78.05,
+         147.71,
+         3.38
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ]
+       },
+       "scene": "8b56d166284e7af126bbffbb1ad1354c",
+       "geom": "b88b84676633ad81efc0c4f1792cebe8",
+       "hm": null,
+       "flora": null,
+       "inst": "9d46983d007177f1c6d60edeb97f167f",
+       "packs": [
+        "2fd91638da1907b2d79172b68ea1e205",
+        "401ae4c81d69030e8b76ab9739000d88",
+        "67e097a5b5411754be582a87b9b8cdf3",
+        "780b72159bd7a3d53dc43f7b9cb3a903",
+        "ba1ddffddddd3e0730e632d9c7994949",
+        "cd06df97e0a003d1286bb26e981866b5",
+        "e1c5f6d9d6fd7922b8de225ca39b618d",
+        "e41521a67ec4ac7606f92fb63dc7d071",
+        "fbf13de5b10593f2d7fca6d6379c9f0c",
+        "ff70b225a1107c81168c11549dbf4a27"
+       ],
+       "bytes": 78606847,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "eb0a3287401227c686f5d1f9708fa87f",
+       "wf": 7
+      },
+      {
+       "from": "2023-05-15",
+       "to": "2023-05-15",
+       "first": "10.0.0.5050",
+       "last": "10.0.0.5050",
+       "builds": 1,
+       "game": "10.0.0.5050",
+       "pic": "3bfc2a3d57e180d62c1d44911d291984",
+       "view": {
+        "spot": [
+         78.05,
+         147.71,
+         3.38
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ]
+       },
+       "scene": "83c1c048c595389c542da13e2b3449d1",
+       "geom": "b88b84676633ad81efc0c4f1792cebe8",
+       "hm": null,
+       "flora": null,
+       "inst": "677c4fc6359923442c1ee8e4f95e4b0e",
+       "packs": [
+        "1878db65ef79e5c8105b6721d25b2db3",
+        "2fd91638da1907b2d79172b68ea1e205",
+        "401ae4c81d69030e8b76ab9739000d88",
+        "4ab2d378f049dd8fd1ef4b2f2b53546e",
+        "67e097a5b5411754be582a87b9b8cdf3",
+        "780b72159bd7a3d53dc43f7b9cb3a903",
+        "9755a1bc4ebba2a8d7068154769068ff",
+        "9afeb888f707c09f55bb53d56d049af7",
+        "ba1ddffddddd3e0730e632d9c7994949",
+        "fbf13de5b10593f2d7fca6d6379c9f0c"
+       ],
+       "bytes": 78436879,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "5dd7bc9a948d7deb1cb971d006d30d05",
+       "wf": 7
+      }
+     ]
+    },
+    {
+     "scene": "hangar_season1_stage3",
+     "revisions": [
+      {
+       "from": "2023-06-26",
+       "to": "2023-08-15",
+       "first": "10.1.0.5051",
+       "last": "10.1.5_1",
+       "builds": 2,
+       "game": "10.1.5_1",
+       "pic": "148c7d6d65d3389fa767148100051fbd",
+       "view": {
+        "spot": [
+         78.05,
+         147.71,
+         3.38
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ]
+       },
+       "scene": "b70248b9e360cfcf194f0bde2aaa51f5",
+       "geom": "805110a7b02fe21c24ff20a2a8cf57a8",
+       "hm": null,
+       "flora": null,
+       "inst": "523a973b640e30020578533eae768ee7",
+       "packs": [
+        "43058c3957cc3169a3ea2e62a5dbc95d",
+        "52a2e228cdb60f1015700f865a64a430",
+        "67e097a5b5411754be582a87b9b8cdf3",
+        "91fffbecd8419dde0328d4d59dbb3f3b",
+        "981c8299010519c91c5796bf353bd304",
+        "9d90c042ad6c177731a401d678372b3d",
+        "a2ab43646dbd37b42b6d84b4023f9b3e",
+        "c533bb43b41a49197800b36b982ee0ce",
+        "cd06df97e0a003d1286bb26e981866b5",
+        "e1277b013549c98c23a3627066708605",
+        "f2dffb9a88faeecd5b71a268ed0d1618"
+       ],
+       "bytes": 78979141,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "f4f004bc91154b66d5019419877b1af4",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2023-05-15",
+   "to": "2023-08-15",
+   "thumb": {
+    "full": "07169033ed863514860fb0493976715c",
+    "small": "b7b318ee0c41b540255f8b571f06acfb",
+    "src": "7a7cba8ea9c4e68d01dc6fbc145db788"
+   }
+  },
+  {
+   "key": "hangar_ny_2023",
+   "event": true,
+   "scenes": [
+    {
+     "scene": "hangar_ny_2023",
+     "revisions": [
+      {
+       "from": "2022-12-07",
+       "to": "2022-12-20",
+       "first": "9.5.0.5041",
+       "last": "9.5.0.5044",
+       "builds": 2,
+       "game": "9.5.0.5044",
+       "pic": "fc822d719a39875323e42cd9938f4c88",
+       "view": {
+        "spot": [
+         -16.15,
+         -15.3,
+         61.38
+        ],
+        "fwd": [
+         -0.0028,
+         1.0
+        ]
+       },
+       "scene": "e451cae04cf6e32041e8e024eb219baf",
+       "geom": "29a3e3bf85a4aa7261cea186bdaddd1b",
+       "hm": "126dbfca234e58fc40c99b0f549438a6",
+       "flora": null,
+       "inst": "c45a5dbdfb99fcd7aa0d9e2049a6b4c5",
+       "packs": [
+        "25fe429fa5b911c80620ace147debc7e",
+        "6bd72ad5ad63c567ef5594ccf93a0abf",
+        "770e096f32f852ba4f8ae3583cd1a0e3",
+        "f74b824d9708b1d365da75c38f4ccf21"
+       ],
+       "bytes": 30763632,
+       "templates": "86c5a2794890b113232af0b1efe56a96",
+       "src": "6ef4546ceef7671556b70aa1c2ff22fb",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2022-12-07",
+   "to": "2022-12-20",
+   "thumb": {
+    "full": "f48ae2135d03057535fab0d873b3bab3",
+    "small": "82f49a9114b94eefd1ec448cd5d30eea",
+    "src": "fdd86f97b901a611699bcdeab8bd3ce2"
+   }
+  },
+  {
+   "key": "hangar",
+   "event": false,
+   "scenes": [
+    {
+     "scene": "hv1",
+     "revisions": [
+      {
+       "from": "2023-09-19",
+       "to": "2024-12-17",
+       "first": "10.3.0.5052",
+       "last": "11.6.0_2",
+       "builds": 30,
+       "game": "10.9.0_1",
+       "pic": "b7fbbbf11653095a1c9e2b5272b0b2cc",
+       "view": {
+        "spot": [
+         0.0,
+         0.0,
+         0.0
+        ],
+        "fwd": [
+         0.0,
+         1.0
+        ]
+       },
+       "scene": "d8ab1828a3573704c117dfb33f089167",
+       "geom": "403dc5849006bb36830d06f2473bb82d",
+       "hm": "bc284b30b99fc024468a4d8df461c75d",
+       "flora": null,
+       "inst": "1b64ca6de7f48f3ea6d764271a359260",
+       "packs": [
+        "dbe9e783ca7748d9149850d35095e71e"
+       ],
+       "bytes": 8181700,
+       "templates": "29b5bc3c4e8965681c6ff047d6d0eef2",
+       "src": "6bc9f9bd463780db94e6091aa7ec7ed0",
+       "wf": 7
+      },
+      {
+       "from": "2022-11-04",
+       "to": "2023-08-15",
+       "first": "9.4.0.5033",
+       "last": "10.1.5_1",
+       "builds": 11,
+       "game": "10.1.5_1",
+       "pic": "b0293b4f15b06dfbe2dcdff29f249c89",
+       "view": {
+        "spot": [
+         0.0,
+         0.0,
+         0.0
+        ],
+        "fwd": [
+         0.0,
+         1.0
+        ]
+       },
+       "scene": "0e388678b30bb37bc62b9e063b6670eb",
+       "geom": "6e5d8ffcb6be4bd64662ae8dcc914799",
+       "hm": "bc284b30b99fc024468a4d8df461c75d",
+       "flora": null,
+       "inst": "14957a20df846b30f9932463a75b4733",
+       "packs": [
+        "a8333b37d008501376567a3b8de1c407"
+       ],
+       "bytes": 8023877,
+       "templates": "8dc646ba689c850e0308d193932dfd4a",
+       "src": "7d0f7b74e090bf9e7cca21ddcd23044a",
+       "wf": 7
+      },
+      {
+       "from": "2022-10-05",
+       "to": "2022-10-14",
+       "first": "9.3.0.5000",
+       "last": "9.3.0.5002",
+       "builds": 3,
+       "game": "9.3.0.5002",
+       "pic": "bbe695f198af4bc2662e50e6411da5d5",
+       "view": {
+        "spot": [
+         0.0,
+         0.0,
+         0.0
+        ],
+        "fwd": [
+         0.0,
+         1.0
+        ]
+       },
+       "scene": "947e52a3f5669c3f81f4df1504da6b7f",
+       "geom": "6e5d8ffcb6be4bd64662ae8dcc914799",
+       "hm": "bc284b30b99fc024468a4d8df461c75d",
+       "flora": null,
+       "inst": "ad2dc210c108d91ab9c99317dfbb7b08",
+       "packs": [
+        "a8333b37d008501376567a3b8de1c407"
+       ],
+       "bytes": 8024203,
+       "templates": "86c5a2794890b113232af0b1efe56a96",
+       "src": "b70ed5aea62396e7664eb8c73a206aee",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2022-10-05",
+   "to": "2024-12-17",
+   "thumb": {
+    "full": "ae538f32bb1c7e0aaf56354d48cb3a20",
+    "small": "432f8179649817122e9171fc74d7c306",
+    "src": "03f907c1797696c3ac6298371fcbed1e"
+   }
+  },
+  {
+   "key": "hangar_main_2022",
+   "event": false,
+   "scenes": [
+    {
+     "scene": "hv_main",
+     "revisions": [
+      {
+       "from": "2024-04-19",
+       "to": "2024-05-23",
+       "first": "10.11.0.5061",
+       "last": "10.11.0_1",
+       "builds": 2,
+       "game": "10.11.0_1",
+       "pic": "375c653717901c8bf5a4f60c88af2b6c",
+       "view": {
+        "spot": [
+         78.05,
+         147.71,
+         3.38
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ]
+       },
+       "scene": "d33e9db0371dc324e8957de0adaa8937",
+       "geom": "aa7427f5947e9f2050538069abdf235b",
+       "hm": null,
+       "flora": null,
+       "inst": "aaeba7c4a778225bfaeb875ffba7ce0c",
+       "packs": [
+        "22a021d402de4b0b70edf19c505f662f",
+        "2a9fecdb820510dae00705eb8512f83f",
+        "532450551c4f60f00b6e0eab5fa92a68",
+        "61584967eb8cde1fd11a9b21220d9479",
+        "619b14786383bff1f472bfcf2f4dd254",
+        "78d86cdf7790c483865e682899436ad5",
+        "cb55807e97b5cb12b2fe9963f8a197c1",
+        "cc002d28cfe807160efc9bd6fcec44ca",
+        "f008edd4a9ee8aa0c45e0e82580b08d2",
+        "f2aa978876492630d3b102f15ae2f4a6"
+       ],
+       "bytes": 76236682,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "e6b650818b0991b7008c4430c965d7f1",
+       "wf": 7
+      },
+      {
+       "from": "2023-11-08",
+       "to": "2024-04-02",
+       "first": "10.4.0.5054",
+       "last": "10.9.0_1",
+       "builds": 12,
+       "game": "10.9.0_1",
+       "pic": "72495ea056e8ddf73e8ba467f2b78147",
+       "view": {
+        "spot": [
+         78.05,
+         147.71,
+         3.38
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ]
+       },
+       "scene": "ab341106244cfab70c1fba2cc085a911",
+       "geom": "aa7427f5947e9f2050538069abdf235b",
+       "hm": null,
+       "flora": null,
+       "inst": "9c9ae94b2b41ff2df940b7b9842efe77",
+       "packs": [
+        "04921b3677015e16042f999c752d510a",
+        "22a021d402de4b0b70edf19c505f662f",
+        "61584967eb8cde1fd11a9b21220d9479",
+        "619b14786383bff1f472bfcf2f4dd254",
+        "78d86cdf7790c483865e682899436ad5",
+        "82e71171398152908bbd44e32fa56411",
+        "bb407947b6cdfbd367f83728cba04a4f",
+        "bf3b75f537bd4baeb1068faf3dbee9a7",
+        "cb55807e97b5cb12b2fe9963f8a197c1",
+        "f008edd4a9ee8aa0c45e0e82580b08d2"
+       ],
+       "bytes": 76926154,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "a8b297add4ba82434efbf21db09741fb",
+       "wf": 7
+      },
+      {
+       "from": "2023-03-16",
+       "to": "2023-10-06",
+       "first": "9.8.0.5049",
+       "last": "10.3.0.5053",
+       "builds": 8,
+       "game": "10.1.5_1",
+       "pic": "256a80d85b8218512a8ac4800efdf669",
+       "view": {
+        "spot": [
+         78.05,
+         147.71,
+         3.38
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ]
+       },
+       "scene": "73946d2f3ceb2568df3f5d3eda16f5fd",
+       "geom": "aa7427f5947e9f2050538069abdf235b",
+       "hm": null,
+       "flora": null,
+       "inst": "1cc039e3e2583fa61f812dff707df901",
+       "packs": [
+        "078ba6f5cf8ba311b356c56193029a3e",
+        "22a021d402de4b0b70edf19c505f662f",
+        "61584967eb8cde1fd11a9b21220d9479",
+        "619b14786383bff1f472bfcf2f4dd254",
+        "78d86cdf7790c483865e682899436ad5",
+        "808e538f21a48a4793098645868b1e19",
+        "b925eef449ae7a081b2ca6cf4284e0f6",
+        "cb55807e97b5cb12b2fe9963f8a197c1",
+        "d52a2080ee4217b26decceaffc06e4ec",
+        "f008edd4a9ee8aa0c45e0e82580b08d2"
+       ],
+       "bytes": 75355271,
+       "templates": "8a70dd7bf5142bfec841237b3e58ae38",
+       "src": "e0232fbefb339a96fa2b3f265d4964c9",
+       "wf": 7
+      },
+      {
+       "from": "2023-02-03",
+       "to": "2023-02-03",
+       "first": "9.7.0.5043",
+       "last": "9.7.0.5043",
+       "builds": 1,
+       "game": "9.7.0.5043",
+       "pic": "adbaaf658974222d3b79e58485eb1110",
+       "view": {
+        "spot": [
+         78.05,
+         147.71,
+         3.38
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ]
+       },
+       "scene": "5e35d32021d37dd8bdfd851925d2bb52",
+       "geom": "9d846b725eb3179a72d64b36dc6a1d72",
+       "hm": null,
+       "flora": null,
+       "inst": "52792c05028401045edd2b5ff23abd38",
+       "packs": [
+        "0945db6ff3ed229bfe803dfe2ec6a441",
+        "13c5b4c9bbbb10cca928b6414c19afc4",
+        "61584967eb8cde1fd11a9b21220d9479",
+        "6ead30f01370ed378ea98df55ca7d400",
+        "78d86cdf7790c483865e682899436ad5",
+        "808e538f21a48a4793098645868b1e19",
+        "9206c1acae6ec3257f254300512836b6",
+        "cb55807e97b5cb12b2fe9963f8a197c1",
+        "d52a2080ee4217b26decceaffc06e4ec",
+        "f008edd4a9ee8aa0c45e0e82580b08d2"
+       ],
+       "bytes": 79200850,
+       "templates": "8dc646ba689c850e0308d193932dfd4a",
+       "src": "78e46257d5f0be4e89a9fc592bfac4f6",
+       "wf": 7
+      },
+      {
+       "from": "2022-12-30",
+       "to": "2022-12-30",
+       "first": "9.6.0.5045",
+       "last": "9.6.0.5045",
+       "builds": 1,
+       "game": "9.6.0.5045",
+       "pic": "1977514ffb09ce1d418c282915c9dae5",
+       "view": {
+        "spot": [
+         78.05,
+         147.71,
+         3.38
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ]
+       },
+       "scene": "3eb8638f9a928aa21e95995844fd59e4",
+       "geom": "cfae3297c06e08daf54f0b13be5a876e",
+       "hm": null,
+       "flora": null,
+       "inst": "9ff8864ca899aa569dbfc2c9783644cd",
+       "packs": [
+        "3ad6af9ac3213ee239dc102484ded694",
+        "61584967eb8cde1fd11a9b21220d9479",
+        "6ead30f01370ed378ea98df55ca7d400",
+        "78d86cdf7790c483865e682899436ad5",
+        "cb55807e97b5cb12b2fe9963f8a197c1",
+        "d52a2080ee4217b26decceaffc06e4ec",
+        "edd571bec40025921315a1a51926d710",
+        "f008edd4a9ee8aa0c45e0e82580b08d2",
+        "fc62167ef6f26f9773fda83afd27a09e"
+       ],
+       "bytes": 68418043,
+       "templates": "18c4080e8308f9a89e78f34320c5cb6d",
+       "src": "d8ee96befd3afbfb7117bf9530098b23",
+       "wf": 7
+      },
+      {
+       "from": "2022-11-04",
+       "to": "2022-12-20",
+       "first": "9.4.0.5033",
+       "last": "9.5.0.5044",
+       "builds": 3,
+       "game": "9.5.0.5044",
+       "pic": "cd7697da87eb20d2a4196ad8c8e1779c",
+       "view": {
+        "spot": [
+         78.05,
+         147.71,
+         3.38
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ]
+       },
+       "scene": "fbf1f3531e8758fa31cf601b48dcadec",
+       "geom": "5837478b4c593227cb76e3bb8cd5f916",
+       "hm": null,
+       "flora": null,
+       "inst": "b9dec7a6e3ffb8e9fbe265f9ce06e16b",
+       "packs": [
+        "01916226dd47f865d3b3aef557480e1a",
+        "3bf62420c1f92c020ab3f3c2b0c7e6b3",
+        "61584967eb8cde1fd11a9b21220d9479",
+        "6ead30f01370ed378ea98df55ca7d400",
+        "750955a09dfcc93f7a064b1ebc942f03",
+        "d09383e768eee18efef4af4732b4ed2a",
+        "d52a2080ee4217b26decceaffc06e4ec",
+        "f008edd4a9ee8aa0c45e0e82580b08d2"
+       ],
+       "bytes": 62844923,
+       "templates": "86c5a2794890b113232af0b1efe56a96",
+       "src": "46b76157c65b22d03376c4e7f4eae127",
+       "wf": 7
+      },
+      {
+       "from": "2022-10-05",
+       "to": "2022-10-14",
+       "first": "9.3.0.5000",
+       "last": "9.3.0.5002",
+       "builds": 3,
+       "game": "9.3.0.5002",
+       "pic": "ab4272f087522217de8448f2372240ca",
+       "view": {
+        "spot": [
+         78.05,
+         147.71,
+         3.38
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ]
+       },
+       "scene": "5b1d8fb96b22379986b7212ee59158a5",
+       "geom": "5837478b4c593227cb76e3bb8cd5f916",
+       "hm": null,
+       "flora": null,
+       "inst": "afbe3ff00b39fe4bad15726e83e3d55e",
+       "packs": [
+        "01916226dd47f865d3b3aef557480e1a",
+        "3bf62420c1f92c020ab3f3c2b0c7e6b3",
+        "61584967eb8cde1fd11a9b21220d9479",
+        "6ead30f01370ed378ea98df55ca7d400",
+        "750955a09dfcc93f7a064b1ebc942f03",
+        "d09383e768eee18efef4af4732b4ed2a",
+        "d52a2080ee4217b26decceaffc06e4ec",
+        "f008edd4a9ee8aa0c45e0e82580b08d2"
+       ],
+       "bytes": 62845186,
+       "templates": "86c5a2794890b113232af0b1efe56a96",
+       "src": "d57ee7f6d0f168dfdfbbe7065799ab0b",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2022-10-05",
+   "to": "2024-05-23",
+   "thumb": {
+    "full": "69342eea869d2e59972be034a35017e6",
+    "small": "dcd62bc501644ffda75991f3ef3aa443",
+    "src": "5b9261dfb6d43661921d6dd9c850beb8"
+   }
+  },
+  {
+   "key": "hangar_helloween2022",
+   "event": true,
+   "scenes": [
+    {
+     "scene": "hangar_hell22",
+     "revisions": [
+      {
+       "from": "2022-10-05",
+       "to": "2022-10-14",
+       "first": "9.3.0.5000",
+       "last": "9.3.0.5002",
+       "builds": 3,
+       "game": "9.3.0.5002",
+       "pic": "477f6ae7a943c8f04fedb24f23878b3e",
+       "view": {
+        "spot": [
+         13.59,
+         -218.72,
+         35.85
+        ],
+        "fwd": [
+         1.0,
+         0.0
+        ]
+       },
+       "scene": "9aa5325965ec4218a606c99f98525e51",
+       "geom": "3f52ae67340b2cc86327b9d506771c19",
+       "hm": "b1ddf8b74aa7b6713716a89c5a3ac86c",
+       "flora": null,
+       "inst": "0e64daded51556450f38b1bef06385a6",
+       "packs": [
+        "0b4a250ed01b7081b793072d34539bf7",
+        "117d18ea3a4a6e7e3cb40abc2d34f866",
+        "15cb2f478627fc9cbe4baf8d55780d1f",
+        "27624e860797887533a0c25e3bcff076",
+        "340c605a792d3e744d9b138e07554d74",
+        "5da9138ddd162875bd9c645a34825b87",
+        "5e336e4c9fe58dc1adb83e65c3971f30",
+        "7e34c5babcbf80929543995a5b1c07e2",
+        "8a4a339892cd7c487143e99a8fb9714e",
+        "8acc2d2a54d5a3b67aa7009a45375b2d",
+        "b4740d477dddcc25ca783ce00249b81a",
+        "c3cf1ee04a063a0cbbe6c839172fc035",
+        "cd7e9b72ae1592aaa1a58cb191f50cd4",
+        "e0691a73eb3b86e4b89dc8d8b880dbd5",
+        "ec6cb5dd7d47f2e68b72370b1fa3b93f"
+       ],
+       "bytes": 102742826,
+       "templates": "86c5a2794890b113232af0b1efe56a96",
+       "src": "546c035c6f317a21266589d31938503d",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2022-10-05",
+   "to": "2022-10-14",
+   "thumb": {
+    "full": "f24e756091d447d207c962002f5d67c6",
+    "small": "fd391a84ea1f56551d86991264769d90",
+    "src": "cb99a62a61ad2ba8db2334be8f82da12"
+   }
+  }
+ ],
+ "zst": true,
+ "tier": "game"
+}
