@@ -52,7 +52,12 @@
     }
    ],
    "from": "2026-11-10",
-   "to": "2026-11-10"
+   "to": "2026-11-10",
+   "thumb": {
+    "full": "758be8c3f069ffe560f7b65536904772",
+    "small": "abbc0fc00024ff2d346f9b31f8ce5e7b",
+    "src": "de33b07690f9fed5b3d094c36ae64c5b"
+   }
   },
   {
    "key": "hangar_halloween_2026",
