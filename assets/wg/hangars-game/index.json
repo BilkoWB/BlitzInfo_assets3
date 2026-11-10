@@ -4,6 +4,57 @@
  "brdf": "brdf_lut.png",
  "hangars": [
   {
+   "key": "hangar_collab_2026",
+   "event": true,
+   "scenes": [
+    {
+     "scene": "hangar_collab_2026",
+     "revisions": [
+      {
+       "from": "2026-11-10",
+       "to": "2026-11-10",
+       "first": "11.21.0_1",
+       "last": "11.21.0_1",
+       "builds": 1,
+       "game": "11.21.0_1",
+       "pic": "256c47dac8ee32ec4d9186c7e41344a0",
+       "view": {
+        "spot": [
+         -20.94,
+         9.94,
+         7.1
+        ],
+        "fwd": [
+         0.0089,
+         1.0
+        ]
+       },
+       "scene": "ab5f21b9a04131cae66045345127d7d3",
+       "geom": "994dd7031b2f53f15985b4c9ef81ca4c",
+       "hm": "2eb654bf643af3f08b77118051fd40cf",
+       "flora": null,
+       "inst": "0edd0888ea68db86779b7d9c1746e516",
+       "packs": [
+        "05d30ae0164f3799c58043920b78cc3b",
+        "15392bd83af7757addc58ece96246784",
+        "166611cbc7de52a95420709fda5bc4de",
+        "a892e6795643e24be3098c793e55f51e",
+        "c6555de958c91e5f2aa9ec7ac17ed57d",
+        "c94858da81345a251d430b68fae14240",
+        "e51c5e6a7e349fbb9b4fa6a0d45cf440"
+       ],
+       "bytes": 55359266,
+       "templates": "de8203401a52ea5a024325abb1f9b768",
+       "src": "de33b07690f9fed5b3d094c36ae64c5b",
+       "wf": 7
+      }
+     ]
+    }
+   ],
+   "from": "2026-11-10",
+   "to": "2026-11-10"
+  },
+  {
    "key": "hangar_halloween_2026",
    "event": true,
    "scenes": [
